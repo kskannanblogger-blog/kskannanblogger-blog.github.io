@@ -5,4 +5,4 @@ categories: [Blog]
 tags: [welcome]
 ---
 
-Hello World! This is my first Chirpy post.
+Hello World! This is my first beginning.
