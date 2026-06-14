@@ -5,15 +5,7 @@ order: 4
 permalink: /about/
 ---
 
-# I am not a writer. I am a traveler who writes.
-
-If you arrived here from the [Foreword](/foreword/), you already know the map is unfinished. You already know this is not a "blog" in the traditional sense. Good. Then we can skip the pleasantries.
-
-Here is what you actually want to know.
-
 ## Who Am I?
-
-Someone who got tired of factory content.
 
 Someone who realized that politics, technology, art, sports, and current affairs are not *separate categories*—they are the same conversation happening in different rooms. I just walk between the rooms, take notes, and shout what I see.
 
