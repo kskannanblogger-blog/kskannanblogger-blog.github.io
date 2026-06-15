@@ -41,13 +41,6 @@ Some topics do not expire. They just wait for someone serious to pick them up.
 
 ❌ **Advertising** – This is not a business. This is a garden.
 
-## The Only Rule (Repeated from the Foreword)
-
-> **No factory content.**
-
-Articles written to please algorithms. Takes designed to fit inside a tweet. Outrage manufactured for engagement. None of it.
-
-Long form. Honest form. *Human* form.
 
 ## How Often?
 

@@ -40,22 +40,6 @@ We will sit in the uncomfortable room of **Eradicating Corruption-**not just in 
 
 And most importantly, we will look in the mirror. **Self-Motivation-** is not a quote on a poster. It is the act of getting out of bed when the world feels heavy. We will write that letter to ourselves, together.
 
-## A Note on the Jekyll Theme You See Here
-
-You might notice the clean lines. The simplicity. I chose this Jekyll theme because it asks for nothing. It does not autoplay videos. It does not beg for your email (yet). It is just words on a background.
-
-That is intentional. In a world screaming for your attention, I want to earn your focus.
-
-## The Only Rule of This Journey
-
-I have one rule for myself, and I offer it to you:
-
-> **No factory content.**
-
-No articles completely written by AI to rank on Google. No “10 ways to…” listicles unless the 11th way is a secret I learned while crying. No political takes that fit inside a tweet.
-
-Long form. Honest form. Human form.
-
 ## So, Where Do We Go From Here?
 
 Hereafter, I will post the first real travel story. It is about getting lost in a city where I did not speak the language, and how a broken bicycle chain taught me more about politics than any newspaper.
