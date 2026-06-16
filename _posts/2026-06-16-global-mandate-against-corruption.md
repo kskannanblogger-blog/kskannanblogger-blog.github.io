@@ -83,7 +83,7 @@ Change starts at the individual level. As members of the public, our collective 
 
 [^1]: UNODC. (n.d.). *Corruption and the United Nations*. Retrieved from [unodc.org](https://www.unodc.org/unodc/en/corruption/index.html){:target="_blank" rel="noopener noreferrer"}
 [^2]: Wikipedia. (n.d.). *Corruption*. Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Corruption){:target="_blank" rel="noopener noreferrer"}
-[^3]: Nelson Mandela Foundation. (1994). *Statement to the United Nations*. Retrieved from [mandela.gov.za](https://www.mandela.gov.za/mandela_speeches/1994/941114_undcp.htm){:target="_blank" rel="noopener noreferrer"}
+[^3]: Nelson Mandela Foundation. (1994). *Statement to the United Nations*. Retrieved from mandela.gov.za
 [^4]: Wikipedia. (n.d.). *Public Procurement*. Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Public_procurement){:target="_blank" rel="noopener noreferrer"}
 [^5]: Wikipedia. (n.d.). *United Nations Convention Against Corruption*. Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/United_Nations_Convention_Against_Corruption){:target="_blank" rel="noopener noreferrer"}
 [^6]: Transparency International. (n.d.). *About Transparency International*. Retrieved from [transparency.org](https://www.transparency.org/en/about){:target="_blank" rel="noopener noreferrer"}
