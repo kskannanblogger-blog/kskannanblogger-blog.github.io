@@ -174,7 +174,7 @@ The ancient Indian philosophy of [*Vasudhaiva Kutumbakam*](https://en.wikipedia.
 
 I did not know about the Cauvery dispute. I did not know about the [1965 anti-Hindi agitations](https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu){:target="_blank"} [citation:8]. I did not know that my own Tamil community had, at different times, been both the oppressed and—let us be honest—the perceived oppressor.
 
-Ignorance is not innocence. Ignorance is a choice. And when you choose ignorance, you hand the mob its weapon.
+<span style="color: var(--link-color); font-weight: 600;">Ignorance is not innocence. Ignorance is a choice. And when you choose ignorance, you hand the mob its weapon.</span>
 
 ### 5. If You Can, Be the Lorry Driver
 
@@ -220,7 +220,7 @@ And for the first time since I had arrived in Bangalore, I did not feel like a s
 
 *— The Traveler*
 
-*Bangalore, 1991 / Written, 2025*
+*Bangalore, 1991 / Written, 2026*
 
 ---
 
