@@ -8,7 +8,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /commons/images/oil-crisis.jpg
+  path: /commons/images/world-oil-crisis.jpg
   alt: Global oil crisis and energy transition
 ---
 
