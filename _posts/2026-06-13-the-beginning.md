@@ -2,7 +2,7 @@
 layout: post
 title: "The Unfinished Map: A Foreword"
 date: 2026-06-13 16:48:00 +0530
-categories: [foreword, beginning]
+categories: [Foreword, Beginning]
 tags: [beginning, manifesto, evergreen]
 excerpt: "We are not starting a blog. We are beginning a journey across the seven continents of the human condition."
 image: /commons/images/the-beginning.jpg

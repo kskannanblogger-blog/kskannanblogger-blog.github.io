@@ -2,7 +2,7 @@
 layout: post
 title: "The Broken Chain: How a Bicycle, a Lorry, and Bangalore Taught Me About Peace"
 date: 2026-06-15 08:00:00 +0530
-categories: [travel, politics, memory]
+categories: [Travel, Politics, Memory]
 tags: [bangalore, language, peace, riot, cauvery]
 excerpt: "I was twenty-two, alone in a city that wanted to burn. My bicycle chain snapped at 6 AM. By noon, I was running for my life. This is what a riot taught me about being human."
 image: /commons/images/bangalore-1991.jpg
