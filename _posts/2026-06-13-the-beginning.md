@@ -5,14 +5,8 @@ date: 2026-06-13 16:48:00 +0530
 categories: [Foreword, Beginning]
 tags: [beginning, manifesto, evergreen]
 excerpt: "We are not starting a blog. We are beginning a journey across the seven continents of the human condition."
+image: /assets/posts/images/the-beginning.jpg
 ---
-<style>
-  .rounded-img {
-    border-radius: 20px;
-}
-</style>
-
-![The Unfinished Map](/assets/posts/images/the-beginning.jpg){: .rounded-img w="1200" h="800"}
 
 It is strange, isn’t it? To write the first page of a book when you do not yet know the last chapter. To draw the first line on a map when you have not yet seen the mountains.
 
