@@ -7,12 +7,13 @@ description: A comprehensive breakdown of the global oil crisis, policy interven
 pin: false
 math: false
 mermaid: false
-image:
-  path: /commons/images/world-oil-crisis.jpg
-  alt: Global oil crisis and energy transition
 ---
 
-<style>
+<style> 
+  .rounded-img {
+    border-radius: 20px;
+  }
+
   .oil-crisis-wrapper {
     max-width: 840px;
     margin: 0 auto;
@@ -121,6 +122,8 @@ image:
     .oil-crisis-cta { padding: 24px 18px; }
   }
 </style>
+
+![Worldwide Oil Crisis](/assets/posts/images/world-oil-crisis.jpg){: .rounded-img w="1200" h="800"}
 
 <div class="oil-crisis-wrapper">
   <h1 class="oil-crisis-title">The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future</h1>
