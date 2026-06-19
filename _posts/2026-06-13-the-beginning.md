@@ -6,6 +6,7 @@ categories: [Foreword, Beginning]
 tags: [beginning, manifesto, evergreen]
 excerpt: "We are not starting a blog. We are beginning a journey across the seven continents of the human condition."
 image: /assets/posts/images/the-beginning.jpg
+comments: false
 ---
 
 It is strange, isn’t it? To write the first page of a book when you do not yet know the last chapter. To draw the first line on a map when you have not yet seen the mountains.
