@@ -113,7 +113,7 @@ Japan's population is aging faster than most developed countries. Instead of ign
 While the problem remains difficult, Japan has at least acknowledged it and developed long-term strategies.
 
 ### Useful Source
-- 🏥 Japan Ministry of Health, Labour and Welfare: <a href="https://www.mhlw.go.jp/english/" target="_blank" rel="noopener noreferrer">https://www.mhlw.go.jp/english/</a>
+- 🏥 Japan Ministry of Health, Labour and Welfare: <a href="https://www.mhlw.go.jp/index.html" target="_blank" rel="noopener noreferrer">https://www.mhlw.go.jp</a>
 
 ---
 
