@@ -7,7 +7,8 @@ description: A comprehensive breakdown of the global oil crisis, policy interven
 pin: false
 math: false
 mermaid: false
-image: /assets/posts/images/world-oil-crisis.jpg
+image: /assets/posts/images/2026/06/world-oil-crisis.jpg
+alt: Worldwide Oil Crisis - Confronting Today's Challenges, Powering Tomorrow's Future
 ---
 <style>
 blockquote.prompt-tip::before {

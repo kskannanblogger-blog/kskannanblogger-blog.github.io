@@ -8,7 +8,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/images/plastic-currency.jpg
+  path: /assets/posts/images/2026/06/plastic-currency.jpg
   alt: Plastic currency - polymer banknotes pros and cons
 ---
 

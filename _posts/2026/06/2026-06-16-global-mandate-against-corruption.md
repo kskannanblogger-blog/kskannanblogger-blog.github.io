@@ -7,7 +7,8 @@ description: A comprehensive roadmap for building a corruption-free future throu
 pin: false
 math: false
 mermaid: false
-image: /assets/posts/images/corruption-free-world.jpg
+image: /assets/posts/images/2026/06/corruption-free-world.jpg
+alt: A corruption-free future - governments and the public unite to end corruption
 ---
 
 > Corruption is a silent pandemic that hinders progress, fuels inequality, and erodes the trust between citizens and their leaders. To build a more equitable world, we must confront this issue head-on. Here is a roadmap for a corruption-free future.

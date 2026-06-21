@@ -8,7 +8,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/images/river-interlinking-india.jpg
+  path: /assets/posts/images/2026/06/river-interlinking-india.jpg
   alt: National River Interlinking Project - India's water future
 ---
 

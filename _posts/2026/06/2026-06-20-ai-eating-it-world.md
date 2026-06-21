@@ -8,7 +8,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/images/ai-eating-it-world.jpg
+  path: /assets/posts/images/2026/06/ai-eating-it-world.jpg
   alt: AI transforming the IT industry - 2030 outlook
 ---
 
