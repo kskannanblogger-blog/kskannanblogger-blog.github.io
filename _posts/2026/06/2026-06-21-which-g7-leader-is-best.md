@@ -4,7 +4,9 @@ title: "Which G7 Leader Is Governing Best in 2026? What Japan Can Teach the Worl
 date: 2026-06-21 16:45:00 +0530
 categories: [Politics, Economics, World Affairs]
 tags: [G7, Japan, Leadership, World Politics, Economy]
-image: /assets/posts/images/2026/06/g7-leadership.jpg
+image:
+  path: /assets/posts/images/2026/06/g7-leadership.jpg
+  alt: "G7 Leaders"
 description: "Among the G7 nations, which leader is governing most effectively in 2026? A deep look at Japan's leadership, economic policies, technology investments, and lessons for the world."
 ---
 
@@ -41,7 +43,7 @@ Together, these countries represent a significant share of global wealth, trade,
 
 ---
 
-## 🇯🇵 Why Japan Deserves Attention in 2026
+## 🗾 Why Japan Deserves Attention in 2026
 
 Japan's current Prime Minister, **Shigeru Ishiba**, inherited both opportunities and challenges.
 
@@ -213,7 +215,7 @@ Every G7 country has strengths.
 - 🌐 Global business influence
 
 **Challenges:**
-- 🇪🇺 Post-Brexit adjustments
+- 🗳️ Post-Brexit adjustments
 - 📉 Productivity concerns
 
 ---
@@ -302,7 +304,7 @@ And perhaps that is why Japan's quiet success deserves far more attention than i
 - 📊 World Bank Japan Data: <a href="https://data.worldbank.org/country/japan" target="_blank" rel="noopener noreferrer">https://data.worldbank.org/country/japan</a>
 - 📘 OECD Japan Reports: <a href="https://www.oecd.org/japan/" target="_blank" rel="noopener noreferrer">https://www.oecd.org/japan/</a>
 - 🤖 International Federation of Robotics: <a href="https://ifr.org" target="_blank" rel="noopener noreferrer">https://ifr.org</a>
-- 🇯🇵 Japan Government Portal: <a href="https://www.japan.go.jp" target="_blank" rel="noopener noreferrer">https://www.japan.go.jp</a>
+- 🗳️ Japan Government Portal: <a href="https://www.japan.go.jp" target="_blank" rel="noopener noreferrer">https://www.japan.go.jp</a>
 - 📈 IMF Country Information: <a href="https://www.imf.org/en/Countries/JPN" target="_blank" rel="noopener noreferrer">https://www.imf.org/en/Countries/JPN</a>
 
 ---
