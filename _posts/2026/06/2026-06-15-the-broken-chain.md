@@ -57,17 +57,17 @@ I ran.
 
 ---
 
-**What I learned later:** The [Cauvery water dispute](https://en.wikipedia.org/wiki/Cauvery_water_dispute){:target="_blank"} had boiled over. The day before—December 11, 1991—the government had officially notified a tribunal award ordering Karnataka to release water to Tamil Nadu [citation:5]. For pro-Kannada groups, this was not politics. This was theft. *"Cauvery is the mother of the Kannadigas,"* their leader had declared. *"We cannot give water to anybody else."* [citation:5]
+**What I learned later:** The Cauvery water dispute had boiled over. The day before—December 11, 1991—the government had officially notified a tribunal award ordering Karnataka to release water to Tamil Nadu [citation:5]. For pro-Kannada groups, this was not politics. This was theft. *"Cauvery is the mother of the Kannadigas,"* their leader had declared. *"We cannot give water to anybody else."* [citation:5]
 
 By December 13, mobs roamed Bangalore's streets targeting Tamil businesses, Tamil vehicles, Tamil faces [citation:5]. Official figures said sixteen people died. Individual accounts said more [citation:5].
 
-But standing on [Residency Road](https://en.wikipedia.org/wiki/Residency_Road,_Bangalore){:target="_blank"} that morning, I did not know any of this. I only knew that a man was screaming in Kannada, pointing at me, and ten others were starting to run in my direction.
+But standing on Residency Road that morning, I did not know any of this. I only knew that a man was screaming in Kannada, pointing at me, and ten others were starting to run in my direction.
 
 ---
 
 ## Part Three: The Lorry Driver
 
-I do not remember which street I turned into. Somewhere near [Richmond Town](https://en.wikipedia.org/wiki/Richmond_Town,_Bangalore){:target="_blank"}, I think. My lungs were burning. My shoes—cheap [Bata](https://en.wikipedia.org/wiki/Bata_Corporation){:target="_blank"} sandals—had lost one strap.
+I do not remember which street I turned into. Somewhere near Richmond Town, I think. My lungs were burning. My shoes—cheap Bata sandals—had lost one strap.
 
 And then I saw the lorry.
 
@@ -155,9 +155,9 @@ A mother deserves to be spoken to in her own language.
 
 ### 2. Recognize That Water and Bread Are Not Metaphors
 
-The [Cauvery water dispute](https://en.wikipedia.org/wiki/Cauvery_water_dispute){:target="_blank"} is real. Farmers on both sides of the border watch their fields dry while politicians shout. The violence of 1991 did not emerge from nowhere. It emerged from hunger, from fear, from the desperate belief that *if they get water, we will die*.
+The Cauvery water dispute is real. Farmers on both sides of the border watch their fields dry while politicians shout. The violence of 1991 did not emerge from nowhere. It emerged from hunger, from fear, from the desperate belief that *if they get water, we will die*.
 
-You cannot solve political violence without solving *political problems*. [Acharya Lokesh](https://en.wikipedia.org/wiki/Acharya_Lokesh){:target="_blank"}, who founded India's first [World Peace Centre](https://en.wikipedia.org/wiki/World_Peace_Centre){:target="_blank"} in Gurugram, puts it simply:
+You cannot solve political violence without solving *political problems*. Acharya Lokesh, who founded India's first World Peace Centre in Gurugram, puts it simply:
 
 > *"We are seeing wars going on in many parts of the world. Even after the war, they come to the negotiating table. So why not come to the table earlier?"* [citation:4]
 

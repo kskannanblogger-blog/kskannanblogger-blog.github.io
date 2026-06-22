@@ -258,7 +258,7 @@ Leadership matters. But systems matter even more.
 
 ---
 
-## 🇮🇳 What Can India Learn From Japan?
+## What Can India Learn From Japan?
 
 India and Japan are very different countries. However, several lessons are universal.
 
