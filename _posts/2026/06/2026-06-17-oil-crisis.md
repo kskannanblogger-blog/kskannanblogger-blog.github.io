@@ -80,7 +80,7 @@ For over a century, crude oil has been the invisible engine of modern civilizati
 >
 > — Adapted from <a href="https://www.ipcc.ch/reports/" target="_blank" rel="noopener noreferrer">IPCC Climate Assessment Reports</a>
 
-> ### 🌍 The Final Word: Our Energy, Our Responsibility
+> ### The Final Word: Our Energy, Our Responsibility
 > The global oil crisis isn't just an economic headline—it's a defining inflection point for human civilization. Transitioning away from fossil fuels demands unprecedented cooperation, technological scaling, and individual accountability. But the infrastructure is maturing, the economics are decisively shifting, and the moral imperative is undeniable. The question is no longer <em>if</em> we can move beyond oil, but <em>how swiftly</em> we choose to act.
 {: .prompt-tip}
 

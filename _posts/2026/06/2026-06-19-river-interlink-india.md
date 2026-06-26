@@ -143,8 +143,8 @@ Make National River Interlinking your legacy. Make water security your *Tryst wi
 
 ---
 
-**📖 Verified References & Further Reading:**
+**Verified References & Further Reading:**
 
 [Ministry of Jal Shakti (Official)](https://jalshakti-dowr.gov.in/){:target="_blank"} | [FAO India](https://www.fao.org/india/en/){:target="_blank"} | [Central Water Commission](https://cwc.gov.in/){:target="_blank"}
 
-✦ *This is a public appeal for water unity & national prosperity. May our rivers flow as one nation.* ✦
+*This is a public appeal for water unity & national prosperity. May our rivers flow as one nation.* 

@@ -24,9 +24,9 @@ From the high plateaus of Papua to the misty cemeteries of Madagascar, humanity 
 
 ---
 
-## 🌀 1. Famadihana · The Turning of the Bones
+## Famadihana · The Turning of the Bones
 
-### 📍 Madagascar · A celebration of ancestral connection
+### Madagascar · A celebration of ancestral connection
 
 In Madagascar, the [Famadihana](https://en.wikipedia.org/wiki/Famadihana){:target="_blank"} ceremony is known as the "dancing with the dead." Every five to seven years, families exhume their deceased loved ones, rewrap them in fresh silk shrouds, and dance joyfully with the remains. Far from being macabre, this ritual honors ancestors and accelerates their passage into the afterlife. It strengthens family bonds and reaffirms the cyclical nature of life.
 
@@ -36,9 +36,9 @@ In Madagascar, the [Famadihana](https://en.wikipedia.org/wiki/Famadihana){:targe
 
 ---
 
-## 🤸 2. El Colacho · The Baby Jumping Festival
+## El Colacho · The Baby Jumping Festival
 
-### 📍 Castrillo de Murcia, Spain · A cleansing leap of faith
+### Castrillo de Murcia, Spain · A cleansing leap of faith
 
 For over 400 years, the Spanish village celebrates [El Colacho](https://en.wikipedia.org/wiki/El_Colacho){:target="_blank"} — where men dressed as devils (Colacho) jump over rows of newborn babies lying on mattresses in the street. This unusual tradition, part of the Catholic feast of Corpus Christi, is believed to wash away original sin and protect infants from evil spirits. The Church has historically criticized it, but locals preserve it as an emblem of identity.
 
@@ -54,9 +54,9 @@ For over 400 years, the Spanish village celebrates [El Colacho](https://en.wikip
 
 ---
 
-## ✋ 3. Ikipalin · Finger Cutting Among the Dani
+## Ikipalin · Finger Cutting Among the Dani
 
-### 📍 West Papua, Indonesia · Grief carved in flesh
+### West Papua, Indonesia · Grief carved in flesh
 
 Among the [Dani people](https://en.wikipedia.org/wiki/Dani_people){:target="_blank"} of the highlands, the ritual of *Ikipalin* involves amputating a woman's upper finger joint upon the death of a close family member. Practiced to express deep sorrow and ward off evil spirits, it also symbolizes the severing of the emotional bond with the deceased. While Indonesian government and missionaries have discouraged it, elderly women still bear the scars — living memory of ancestral grief.
 
@@ -66,9 +66,9 @@ Among the [Dani people](https://en.wikipedia.org/wiki/Dani_people){:target="_bla
 
 ---
 
-## 🥣 4. Polterabend · The German Shard Wedding
+## Polterabend · The German Shard Wedding
 
-### 📍 Germany & parts of Central Europe · smash for good luck
+### Germany & parts of Central Europe · smash for good luck
 
 The night before a German wedding, guests gather for [Polterabend](https://en.wikipedia.org/wiki/Polterabend){:target="_blank"} — smashing porcelain and ceramics (never glassware, because that brings bad luck). The loud shattering is said to drive away evil spirits, and the broken pieces symbolize that the couple can overcome any hardship together. The couple then cleans up the shards together, a metaphor for teamwork. An ancient custom revived with modern joy.
 
@@ -84,9 +84,9 @@ The night before a German wedding, guests gather for [Polterabend](https://en.wi
 
 ---
 
-## 🎶 5. La S · Whistling Traditions of the Hani People
+## La S · Whistling Traditions of the Hani People
 
-### 📍 Yunnan, China & Northern Laos · Amorous airs
+### Yunnan, China & Northern Laos · Amorous airs
 
 Among the [Hani ethnic minority](https://en.wikipedia.org/wiki/Hani_people){:target="_blank"}, young men and women communicate romantic interest through a language of whistled melodies. This "whistled speech" can imitate tones of the Hani language and convey secret messages across rice terraces. The tradition *La S* avoids parental interference and is considered elegant, poetic, and discreet. UNESCO highlights it as intangible cultural heritage.
 
@@ -96,21 +96,21 @@ Among the [Hani ethnic minority](https://en.wikipedia.org/wiki/Hani_people){:tar
 
 ---
 
-## 🌍 Why Traditions Define Human Diversity
+## Why Traditions Define Human Diversity
 
 From the [Viking funerals](https://en.wikipedia.org/wiki/Viking_funeral){:target="_blank"} to the [Cherokee Green Corn Ceremony](https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs){:target="_blank"}, every custom reflects adaptation to environment, spiritual beliefs, and collective memory. Anthropologically, **rituals reduce anxiety** about uncontrollable events (death, harvest, marriage) and **forge solidarity**. The more we study 'strange' customs, the more we discover our common humanity: the need to celebrate, to mourn, and to connect.
 
 ---
 
-### 📖 Anthropologist's Reflection: Cultural Relativism in Action
+## Anthropologist's Reflection: Cultural Relativism in Action
 
 "Each tradition is a solution to a universal human problem. When we pause judgement, we unlock empathy." — **Clifford Geertz** (interpretive anthropology). Practices like *Famadihana* or *Ikipalin* teach us that human meaning is diverse and resilient. The goal of this journey is not to rank but to listen.
 
 ---
 
-## 🕷️ 6. Tarantism · The Dancing Plague of Southern Italy
+## Tarantism · The Dancing Plague of Southern Italy
 
-### 📍 Apulia, Italy · music as exorcism & healing
+### Apulia, Italy · music as exorcism & healing
 
 Legend holds that the bite of the tarantula wolf spider would cause a mysterious hysteria — *tarantism*. The cure? ecstatic, frenzied dancing to the rhythm of tambourines and fiddles. [Tarantism](https://en.wikipedia.org/wiki/Tarantism){:target="_blank"} evolved into a musical tradition (pizzica tarantata) that blends folk Catholicism with ancient Dionysian rites. Today, it's a cultural festival where people 'dance away' psychological burdens.
 
@@ -126,19 +126,19 @@ Legend holds that the bite of the tarantula wolf spider would cause a mysterious
 
 ---
 
-## 📚 Further Reading & External Explorations
+## Further Reading & External Explorations
 
 Deepen your anthropological journey by visiting these rich resources:
 
-- 📖 [Ritual on Wikipedia](https://en.wikipedia.org/wiki/Ritual){:target="_blank"} – the science and symbolism of rites.
-- 🌐 [SAPIENS.org](https://www.sapiens.org/){:target="_blank"} – anthropology magazine with living traditions.
-- 🏺 [UNESCO Intangible Cultural Heritage List](https://www.unesco.org/culture/ich/en/lists){:target="_blank"} – safeguarding global traditions.
-- 🎭 [Britannica: Festivals & Rituals](https://www.britannica.com/browse/Festivals-Holidays){:target="_blank"} – encyclopedic overview.
+- [Ritual on Wikipedia](https://en.wikipedia.org/wiki/Ritual){:target="_blank"} – the science and symbolism of rites.
+- [SAPIENS.org](https://www.sapiens.org/){:target="_blank"} – anthropology magazine with living traditions.
+- [UNESCO Intangible Cultural Heritage List](https://www.unesco.org/culture/ich/en/lists){:target="_blank"} – safeguarding global traditions.
+- [Britannica: Festivals & Rituals](https://www.britannica.com/browse/Festivals-Holidays){:target="_blank"} – encyclopedic overview.
 
 Every tradition — joyful, bizarre, or solemn — is an evolving story. The next time you hear of a far-flung custom, remember that inside every ritual lives a family, a village, and a heartbeat that echoes through centuries.
 
 ---
 
-🌟 **Anthropological Journey | Unique Traditions Around the World** — originally published for curious minds. Celebrate human diversity with respect and wonder.
+**Anthropological Journey | Unique Traditions Around the World** — originally published for curious minds. Celebrate human diversity with respect and wonder.
 
-✍️ Written in the spirit of cross-cultural dialogue. All external links lead to reputable references like Wikipedia, Britannica, and scholarly sources.
+Written in the spirit of cross-cultural dialogue. All external links lead to reputable references like Wikipedia, Britannica, and scholarly sources.
