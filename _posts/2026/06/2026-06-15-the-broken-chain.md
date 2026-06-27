@@ -227,7 +227,6 @@ And for the first time since I had arrived in Bangalore, I did not feel like a s
 
 ## Further Reading
 
-- [Cauvery Water Dispute – Wikipedia](https://en.wikipedia.org/wiki/Cauvery_water_dispute){:target="_blank"}
 - [1991 anti-Tamil violence in Karnataka – Wikipedia](https://en.wikipedia.org/wiki/1991_anti-Tamil_violence_in_Karnataka){:target="_blank"} [citation:5]
 - [Anti-Hindi agitations of Tamil Nadu – Wikipedia](https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu){:target="_blank"}
 - [Mahatma Gandhi on communal harmony – The Daily Star](https://www.thedailystar.net/opinion/focus/news/gandhis-search-harmony-noakhali-3997161){:target="_blank"} [citation:9]
