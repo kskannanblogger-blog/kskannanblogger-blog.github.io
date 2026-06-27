@@ -310,16 +310,14 @@ As Dr. Ajit Kumar Mohanty stated:
 
 | Resource | Description |
 |----------|-------------|
-| [Department of Atomic Energy (DAE)](https://dae.gov.in/) | Official website of India's Department of Atomic Energy |
-| [Bhabha Atomic Research Centre (BARC)](https://www.barc.gov.in/) | Information on India's premier nuclear research facility |
-| [Indira Gandhi Centre for Atomic Research (IGCAR)](https://www.igcar.gov.in/) | Details on India's fast breeder reactor programme |
-| [Prototype Fast Breeder Reactor (PFBR)](https://www.igcar.gov.in/reactors/pfbr) | Information on India's 500 MWe fast breeder reactor |
-| [National Hydrogen Mission](https://mnre.gov.in/hydrogen-mission) | India's policy framework for hydrogen production and use |
-| [Thermochemical Hydrogen Production](https://www.energy.gov/eere/fuelcells/thermochemical-hydrogen-production) | U.S. Department of Energy resource on thermochemical cycles |
-| [Clean Energy Ministerial](https://www.cleanenergyministerial.org/) | International forum for clean energy collaboration |
-| [World Nuclear Association](https://world-nuclear.org/) | Global information on nuclear energy applications |
-| [International Atomic Energy Agency (IAEA)](https://www.iaea.org/) | United Nations agency for nuclear cooperation |
-| [Nuclear Hydrogen Production](https://www.iaea.org/topics/hydrogen-production) | IAEA's resource on nuclear hydrogen production |
+| [Department of Atomic Energy (DAE)](https://dae.gov.in/){:target="_blank" rel="noopener noreferrer"} | Official website of India's Department of Atomic Energy |
+| [Bhabha Atomic Research Centre (BARC)](https://www.barc.gov.in/){:target="_blank" rel="noopener noreferrer"} | Information on India's premier nuclear research facility |
+| [Indira Gandhi Centre for Atomic Research (IGCAR)](https://www.igcar.gov.in/){:target="_blank" rel="noopener noreferrer"} | Details on India's fast breeder reactor programme |
+| [Prototype Fast Breeder Reactor (PFBR)](https://bhavini.nic.in/){:target="_blank" rel="noopener noreferrer"} | Information on India's 500 MWe fast breeder reactor |
+| [Thermochemical Hydrogen Production](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting){:target="_blank" rel="noopener noreferrer"} | U.S. Department of Energy resource on thermochemical cycles |
+| [Clean Energy Ministerial](https://www.cleanenergyministerial.org/){:target="_blank" rel="noopener noreferrer"} | International forum for clean energy collaboration |
+| [World Nuclear Association](https://www.world-nuclear.org/){:target="_blank" rel="noopener noreferrer"} | Global information on nuclear energy applications |
+| [International Atomic Energy Agency (IAEA)](https://www.iaea.org/){:target="_blank" rel="noopener noreferrer"} | United Nations agency for nuclear cooperation |
 
 ---
 
