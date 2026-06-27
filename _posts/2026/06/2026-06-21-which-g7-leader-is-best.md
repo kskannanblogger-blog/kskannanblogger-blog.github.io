@@ -3,7 +3,7 @@ layout: post
 title: "Which G7 Leader Is Governing Best in 2026? What Japan Can Teach the World"
 date: 2026-06-21 16:45:00 +0530
 categories: [Politics, Economics, World Affairs]
-tags: [G7, Japan, Leadership, World Politics, Economy]
+tags: [g7, japan, leadership, world politics, economy]
 image:
   path: /assets/posts/images/2026/06/g7-leadership.jpg
   alt: "G7 Leaders"

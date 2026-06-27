@@ -3,7 +3,7 @@ layout: post
 title: "Pollution Free World: A Dream We Can Make Real"
 date: 2026-06-22 18:23:51 +0530
 categories: [Environment, Sustainability, Climate Change]
-tags: [Pollution, Environment, Climate Action, Sustainability, Green Living]
+tags: [pollution, environment, climate action, sustainability, green living]
 image:
   path: /assets/posts/images/2026/06/pollution-free-world.jpg
   alt: "Pollution Free World"
