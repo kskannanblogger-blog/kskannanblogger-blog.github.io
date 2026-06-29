@@ -1,15 +1,13 @@
 ---
-
-layout: post
 title: "Chapter 1: What is HTML? | The Complete HTML Reference: A-Z Guide for Modern Web Development"
 description: "Learn what HTML is, why it was created, how it works, and why it remains the foundation of every website. This is Chapter 1 of The Complete HTML Reference: A-Z Guide for Modern Web Development."
-date: 2026-06-29 10:00:00 +0530
+date: 2026-06-29 18:30:00 +0530
 categories: [HTML, Web Development]
 tags: [HTML, HTML5, Beginner, Web Development, HTML Reference]
 comments: true
-mermaid: true
+mermaid: false
 image:
-  path: /assets/posts/images/2026/06/complete-html-reference-cover.jpg
+  path: /assets/posts/images/2026/06/complete-html-reference.jpg
   alt: "Complete HTML Reference: A-Z Guide for Modern Web Development" 
 ---
 
