@@ -1150,7 +1150,7 @@ An HTML document describes the structure of a webpage. When opened in a browser,
 
 ---
 
-# A Minimal HTML Document
+## A Minimal HTML Document
 
 The smallest valid HTML document looks like this:
 
@@ -1175,7 +1175,7 @@ We'll study each of these elements in detail in later chapters.
 
 ---
 
-# What Is an HTML Element?
+## What Is an HTML Element?
 
 An **HTML element** is the basic building block of every HTML document.
 
@@ -1201,7 +1201,7 @@ Together, they form a **paragraph element**.
 
 ---
 
-# What Is an HTML Tag?
+## What Is an HTML Tag?
 
 Many beginners confuse **tags** and **elements**.
 
@@ -1239,7 +1239,7 @@ This entire structure is the **element**.
 
 ---
 
-# Anatomy of an HTML Element
+## Anatomy of an HTML Element
 
 Consider the following example:
 
@@ -1259,7 +1259,7 @@ Everything together forms one HTML element.
 
 ---
 
-# Opening Tags
+## Opening Tags
 
 Opening tags tell the browser where an element begins.
 
@@ -1281,7 +1281,7 @@ Opening tags may also contain attributes, which we'll learn shortly.
 
 ---
 
-# Closing Tags
+## Closing Tags
 
 Most HTML elements require a closing tag.
 
@@ -1297,7 +1297,7 @@ Closing tags tell the browser that the current element has ended.
 
 ---
 
-# Why Closing Tags Matter
+## Why Closing Tags Matter
 
 Imagine writing:
 
@@ -1315,7 +1315,7 @@ Always close elements correctly unless the HTML specification explicitly says th
 
 ---
 
-# Nested Elements
+## Nested Elements
 
 HTML elements can contain other elements.
 
@@ -1343,7 +1343,7 @@ Nested elements create a hierarchical structure that browsers convert into the D
 
 ---
 
-# Proper Nesting
+## Proper Nesting
 
 Correct nesting:
 
@@ -1371,7 +1371,7 @@ Always close elements in the reverse order that you opened them.
 
 ---
 
-# Parent and Child Relationships
+## Parent and Child Relationships
 
 HTML follows a tree structure.
 
@@ -1406,7 +1406,7 @@ Understanding these relationships becomes very important when working with CSS a
 
 ---
 
-# Empty (Void) Elements
+## Empty (Void) Elements
 
 Not every HTML element has content.
 
@@ -1442,7 +1442,7 @@ There is **no** closing `</img>` tag.
 
 ---
 
-# Self-Closing Tags
+## Self-Closing Tags
 
 You may sometimes see code like this:
 
@@ -1468,7 +1468,7 @@ Most developers omit the trailing slash in modern HTML.
 
 ---
 
-# What Are Attributes?
+## What Are Attributes?
 
 Attributes provide **additional information** about an HTML element.
 
@@ -1489,7 +1489,7 @@ The browser uses this information to determine where the hyperlink should lead.
 
 ---
 
-# Multiple Attributes
+## Multiple Attributes
 
 Elements may contain more than one attribute.
 
@@ -1509,7 +1509,7 @@ Each attribute serves a different purpose.
 
 ---
 
-# Attribute Syntax
+## Attribute Syntax
 
 The general syntax is:
 
@@ -1539,7 +1539,7 @@ Attributes should always be written inside the opening tag.
 
 ---
 
-# Global Attributes
+## Global Attributes
 
 Some attributes can be used on almost every HTML element.
 
@@ -1559,7 +1559,7 @@ We'll dedicate an entire chapter to global attributes later in this series.
 
 ---
 
-# HTML Is Not Case Sensitive
+## HTML Is Not Case Sensitive
 
 Modern HTML is **case-insensitive**.
 
@@ -1581,7 +1581,7 @@ This improves readability and consistency.
 
 ---
 
-# Whitespace in HTML
+## Whitespace in HTML
 
 HTML ignores extra spaces and line breaks.
 
@@ -1611,7 +1611,7 @@ If you need to preserve spacing, HTML provides special elements and CSS techniqu
 
 ---
 
-# HTML Comments
+## HTML Comments
 
 Comments allow developers to leave notes inside the source code.
 
@@ -1647,7 +1647,7 @@ Comments are useful for:
 
 ---
 
-# Best Practices
+## Best Practices
 
 As you begin writing HTML, develop good habits from the start.
 
@@ -1663,7 +1663,7 @@ Clean HTML is easier to maintain, debug, and collaborate on.
 
 ---
 
-# Common Beginner Mistakes
+## Common Beginner Mistakes
 
 Avoid these common mistakes:
 
@@ -1681,7 +1681,7 @@ Recognizing these mistakes early will save you hours of debugging later.
 
 ---
 
-# Summary
+## Summary
 
 In this section, you learned:
 
