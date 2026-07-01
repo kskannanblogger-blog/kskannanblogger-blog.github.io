@@ -99,9 +99,9 @@ Both Algeria and Austria qualify from Group J, but the story of this match will 
 
 | Resource | Description |
 |----------|-------------|
-| [Official FIFA Match Centre](https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497) | Full stats and official match report from FIFA.  |
-| [Sky Sports Match Report](https://www.skysports.com/football/algeria-vs-austria/report/549832) | An in-depth analysis of the match and its implications.  |
-| [beIN SPORTS Live Blog](https://prod.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/live-blog-algeria-vs-austria-in-the-2026-fifa-world-cup-2026-06-27) | A detailed live blog covering the pre-match build-up and action.  |
+| <a href="https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497" target="_blank" rel="noopener noreferrer">Official FIFA Match Centre</a> | Full stats and official match report from FIFA.  |
+| <a href="https://www.skysports.com/football/algeria-vs-austria/report/549832" target="_blank" rel="noopener noreferrer">Sky Sports Match Report</a> | An in-depth analysis of the match and its implications.  |
+| <a href="https://prod.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/live-blog-algeria-vs-austria-in-the-2026-fifa-world-cup-2026-06-27" target="_blank" rel="noopener noreferrer">beIN SPORTS Live Blog</a> | A detailed live blog covering the pre-match build-up and action.  |
 
 ---
 

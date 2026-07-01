@@ -60,7 +60,7 @@ All you need is:
 
 ---
 
-# What Is HTML?
+## What Is HTML?
 
 **HTML** stands for **HyperText Markup Language**.
 
@@ -208,7 +208,7 @@ There is no calculation or decision-making involved.
 
 ---
 
-# Why Was HTML Created?
+## Why Was HTML Created?
 
 In the late 1980s, researchers needed a simple way to share scientific documents across different computers connected to the Internet.
 
@@ -252,7 +252,7 @@ Although HTML provides the structure, it does not determine how these elements l
 
 ---
 
-# Your First HTML Program
+## Your First HTML Program
 
 Let's create your first webpage.
 
@@ -1128,7 +1128,7 @@ Mastering these concepts is essential because every HTML element you'll learn la
 
 ---
 
-# What Is an HTML Document?
+## What Is an HTML Document?
 
 An **HTML document** is a plain text file that contains HTML code.
 
@@ -1175,7 +1175,7 @@ We'll study each of these elements in detail in later chapters.
 
 ---
 
-# What Is an HTML Element?
+## What Is an HTML Element?
 
 An **HTML element** is the basic building block of every HTML document.
 
@@ -1201,7 +1201,7 @@ Together, they form a **paragraph element**.
 
 ---
 
-# What Is an HTML Tag?
+## What Is an HTML Tag?
 
 Many beginners confuse **tags** and **elements**.
 
@@ -1259,7 +1259,7 @@ Everything together forms one HTML element.
 
 ---
 
-# Opening Tags
+## Opening Tags
 
 Opening tags tell the browser where an element begins.
 
@@ -1281,7 +1281,7 @@ Opening tags may also contain attributes, which we'll learn shortly.
 
 ---
 
-# Closing Tags
+## Closing Tags
 
 Most HTML elements require a closing tag.
 
@@ -1315,7 +1315,7 @@ Always close elements correctly unless the HTML specification explicitly says th
 
 ---
 
-# Nested Elements
+## Nested Elements
 
 HTML elements can contain other elements.
 
@@ -1406,7 +1406,7 @@ Understanding these relationships becomes very important when working with CSS a
 
 ---
 
-# Empty (Void) Elements
+## Empty (Void) Elements
 
 Not every HTML element has content.
 
@@ -1468,7 +1468,7 @@ Most developers omit the trailing slash in modern HTML.
 
 ---
 
-# What Are Attributes?
+## What Are Attributes?
 
 Attributes provide **additional information** about an HTML element.
 
@@ -1559,7 +1559,7 @@ We'll dedicate an entire chapter to global attributes later in this series.
 
 ---
 
-# HTML Is Not Case Sensitive
+## HTML Is Not Case Sensitive
 
 Modern HTML is **case-insensitive**.
 
@@ -1581,7 +1581,7 @@ This improves readability and consistency.
 
 ---
 
-# Whitespace in HTML
+## Whitespace in HTML
 
 HTML ignores extra spaces and line breaks.
 
@@ -1611,7 +1611,7 @@ If you need to preserve spacing, HTML provides special elements and CSS techniqu
 
 ---
 
-# HTML Comments
+## HTML Comments
 
 Comments allow developers to leave notes inside the source code.
 
@@ -1752,7 +1752,7 @@ We'll now examine each part one by one.
 
 ---
 
-# Overall Structure
+## Overall Structure
 
 The document can be divided into five major sections.
 
@@ -1803,7 +1803,7 @@ In **Chapter 2**, we'll dedicate an entire chapter to understanding this single 
 
 ---
 
-# The `<html>` Element
+## The `<html>` Element
 
 Immediately after the DOCTYPE comes the `<html>` element.
 
@@ -1832,7 +1832,7 @@ Later in this series, we'll study every attribute of the `<html>` element in dep
 
 ---
 
-# The `<head>` Element
+## The `<head>` Element
 
 The next major section is the `<head>` element.
 
@@ -1868,7 +1868,7 @@ Although users usually don't see this information directly, browsers and search 
 
 ---
 
-# The `<title>` Element
+## The `<title>` Element
 
 Inside the `<head>` section you'll often find:
 
@@ -1891,7 +1891,7 @@ Poor titles negatively affect both usability and search engine optimization (SEO
 
 ---
 
-# The `<meta>` Element
+## The `<meta>` Element
 
 You also saw:
 
@@ -1927,7 +1927,7 @@ We'll explore every type of `<meta>` element in a dedicated chapter later in thi
 
 ---
 
-# The `<body>` Element
+## The `<body>` Element
 
 Everything visible on the webpage belongs inside the `<body>` element.
 
@@ -1994,7 +1994,7 @@ Every HTML element becomes an object that browsers and JavaScript can manipulate
 
 ---
 
-# Why Document Structure Matters
+## Why Document Structure Matters
 
 Correct document structure offers many benefits.
 
@@ -2030,7 +2030,7 @@ As projects grow larger, proper organization becomes increasingly important.
 
 ---
 
-# HTML Validation
+## HTML Validation
 
 Just because a browser displays a webpage doesn't necessarily mean the HTML is correct.
 
@@ -2052,7 +2052,7 @@ Later in this book, we'll learn how to validate HTML documents using professiona
 
 ---
 
-# Best Practices for HTML Documents
+## Best Practices for HTML Documents
 
 Follow these recommendations whenever you create a new HTML file.
 
@@ -2078,7 +2078,7 @@ The complexity of a website may increase dramatically, but the underlying HTML d
 
 ---
 
-# Summary
+## Summary
 
 In this section, you learned:
 
@@ -2109,3 +2109,478 @@ In the final section of this chapter, you'll learn:
 * Interview Questions
 * Chapter Summary
 * Quick Reference Sheet
+
+---
+
+# HTML Coding Conventions and Best Practices
+
+Writing HTML that works is only the first step. Professional developers also focus on writing HTML that is **clean**, **readable**, **maintainable**, and **accessible**.
+
+Following good coding conventions makes your projects easier to understand, debug, and extend. Whether you're working alone or with a team, clean code saves time and reduces mistakes.
+
+---
+
+## Use Lowercase Element Names
+
+Although HTML is case-insensitive, the modern standard is to use lowercase element names.
+
+**Recommended:**
+
+```html
+<h1>Welcome to HTML</h1>
+```
+
+**Avoid:**
+
+```html
+<H1>Welcome to HTML</H1>
+```
+
+Using lowercase improves consistency and matches the style used in official documentation.
+
+---
+
+## Indent Your Code
+
+Indentation makes nested elements easier to read.
+
+**Recommended:**
+
+```html
+<body>
+    <main>
+        <section>
+            <h1>Welcome</h1>
+            <p>Learning HTML is fun.</p>
+        </section>
+    </main>
+</body>
+```
+
+Poor indentation quickly becomes confusing as your documents grow larger.
+
+---
+
+## Close Elements Properly
+
+Always close elements unless they are **void elements** such as `<img>`, `<br>`, or `<meta>`.
+
+Correct:
+
+```html
+<p>This is a paragraph.</p>
+```
+
+Incorrect:
+
+```html
+<p>This is a paragraph.
+```
+
+Modern browsers may recover from mistakes, but valid HTML is easier to maintain and less likely to cause unexpected behavior.
+
+---
+
+## Use Meaningful Element Names
+
+HTML5 introduced semantic elements that describe the purpose of content.
+
+Instead of using generic containers everywhere:
+
+```html
+<div>
+    ...
+</div>
+```
+
+Prefer semantic elements when appropriate:
+
+```html
+<header>
+    ...
+</header>
+
+<main>
+    ...
+</main>
+
+<footer>
+    ...
+</footer>
+```
+
+Semantic HTML improves accessibility and helps search engines understand your content.
+
+---
+
+## Always Include Alternative Text for Images
+
+Whenever you use an image, provide an `alt` attribute.
+
+```html
+<img src="mountains.jpg" alt="Snow-covered mountains at sunrise">
+```
+
+Alternative text helps:
+
+* Screen readers
+* Search engines
+* Users with slow internet connections
+* Situations where images fail to load
+
+We'll dedicate an entire chapter to image accessibility later in this series.
+
+---
+
+## Write Meaningful Page Titles
+
+Avoid vague titles such as:
+
+```text
+Home
+```
+
+Instead, write descriptive titles:
+
+```text
+The Complete HTML Reference – Chapter 1: What is HTML?
+```
+
+Meaningful titles improve both usability and SEO.
+
+---
+
+## Keep CSS and JavaScript Separate
+
+As projects become larger, avoid placing large amounts of CSS and JavaScript directly inside HTML files.
+
+Instead, use separate files.
+
+Example:
+
+```html
+<link rel="stylesheet" href="styles.css">
+<script src="script.js"></script>
+```
+
+This makes projects easier to organize and maintain.
+
+---
+
+# Common Beginner Mistakes
+
+Every beginner makes mistakes—and that's completely normal. The key is to recognize them early.
+
+---
+
+## Mistake 1: Forgetting the DOCTYPE
+
+Incorrect:
+
+```html
+<html>
+```
+
+Correct:
+
+```html
+<!DOCTYPE html>
+<html>
+```
+
+Without the DOCTYPE declaration, browsers may switch to compatibility modes designed for older websites.
+
+---
+
+## Mistake 2: Incorrect Nesting
+
+Incorrect:
+
+```html
+<p>
+    <strong>Hello
+</p>
+</strong>
+```
+
+Correct:
+
+```html
+<p>
+    <strong>Hello</strong>
+</p>
+```
+
+Always close elements in the reverse order that they were opened.
+
+---
+
+## Mistake 3: Missing Quotes Around Attribute Values
+
+Avoid:
+
+```html
+<img src=photo.jpg>
+```
+
+Recommended:
+
+```html
+<img src="photo.jpg">
+```
+
+Although browsers often accept unquoted values, quotes improve readability and prevent subtle bugs.
+
+---
+
+## Mistake 4: Overusing `<br>`
+
+Some beginners use multiple `<br>` elements to create space.
+
+Example:
+
+```html
+<p>First paragraph.</p>
+
+<br>
+<br>
+<br>
+
+<p>Second paragraph.</p>
+```
+
+Spacing should usually be handled with CSS rather than repeated line breaks.
+
+---
+
+## Mistake 5: Using HTML for Presentation
+
+Avoid writing HTML solely for visual appearance.
+
+HTML should describe the **meaning** of content.
+
+CSS should control the **appearance**.
+
+This separation keeps your code organized and easier to maintain.
+
+---
+
+## Mini Project: Your First Structured Webpage
+
+Now it's time to apply what you've learned.
+
+Create a file named:
+
+```text
+my-first-webpage.html
+```
+
+Add the following code:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Structured Webpage</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <main>
+
+        <section>
+
+            <h2>About Me</h2>
+
+            <p>
+                I am learning HTML using
+                <strong>The Complete HTML Reference</strong>.
+            </p>
+
+        </section>
+
+        <section>
+
+            <h2>My Goals</h2>
+
+            <ul>
+                <li>Learn HTML thoroughly</li>
+                <li>Master CSS</li>
+                <li>Build amazing websites</li>
+            </ul>
+
+        </section>
+
+    </main>
+
+    <footer>
+
+        <p>Copyright © 2026</p>
+
+    </footer>
+
+</body>
+
+</html>
+```
+
+Open the file in your browser and inspect the source code. Try changing the headings, paragraphs, and list items to see how the page updates.
+
+---
+
+## Practice Exercises
+
+Complete the following exercises before moving to Chapter 2.
+
+### Exercise 1
+
+Create an HTML document that contains:
+
+* One heading
+* Two paragraphs
+* One horizontal rule
+* One image (use any image available on your computer)
+
+---
+
+### Exercise 2
+
+Create a webpage describing your favorite hobby.
+
+Include:
+
+* A title
+* Three headings
+* Two paragraphs
+* One unordered list
+
+---
+
+### Exercise 3
+
+Create a webpage about your hometown.
+
+Add:
+
+* A page title
+* A main heading
+* Three sections
+* A footer
+
+---
+
+### Exercise 4
+
+Open one of your favorite websites.
+
+Right-click the page and choose **View Page Source** (or a similar option in your browser).
+
+Try to identify:
+
+* The DOCTYPE declaration
+* The `<html>` element
+* The `<head>` section
+* The `<body>` section
+* The page title
+
+This is an excellent way to learn from real-world websites.
+
+---
+
+## Interview Questions
+
+Test your understanding with these common interview questions.
+
+1. What does HTML stand for?
+2. Is HTML a programming language? Why or why not?
+3. What is the difference between a tag and an element?
+4. What is the purpose of the `<!DOCTYPE html>` declaration?
+5. What is the root element of an HTML document?
+6. What is the purpose of the `<head>` element?
+7. What is the purpose of the `<body>` element?
+8. What is a void (empty) element?
+9. What is the DOM?
+10. Why is semantic HTML important?
+
+Try answering these questions without looking back at the chapter. If you can explain them in your own words, you've built a strong foundation.
+
+---
+
+## Chapter 1 Summary
+
+Congratulations!
+
+You've completed the first chapter of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+In this chapter, you learned:
+
+* What HTML is
+* Why HTML was invented
+* The history and evolution of HTML
+* The relationship between HTML, CSS, and JavaScript
+* How browsers request and receive HTML
+* How browsers parse HTML and build the DOM
+* The structure of an HTML document
+* The difference between tags, elements, and attributes
+* HTML comments and whitespace
+* Document structure
+* Coding conventions
+* Common mistakes
+* Best practices
+
+You now have the knowledge needed to understand every HTML document, no matter how simple or complex.
+
+---
+
+# Quick Reference Sheet
+
+| Concept           | Description                                                   |
+| ----------------- | ------------------------------------------------------------- |
+| HTML              | HyperText Markup Language                                     |
+| Document          | A plain text file containing HTML code                        |
+| Element           | A complete HTML component (opening tag, content, closing tag) |
+| Tag               | Markup enclosed in angle brackets                             |
+| Attribute         | Additional information placed inside an opening tag           |
+| DOM               | Document Object Model created by the browser                  |
+| `<head>`          | Contains metadata about the document                          |
+| `<body>`          | Contains visible webpage content                              |
+| `<!DOCTYPE html>` | Declares the document as HTML5                                |
+| Browser           | Parses HTML and renders the webpage                           |
+
+---
+
+# What's Next?
+
+In **Chapter 2**, we'll explore one of the shortest—but most misunderstood—lines in every HTML document:
+
+```html
+<!DOCTYPE html>
+```
+
+You'll discover:
+
+* Why it exists
+* Its history from SGML to HTML5
+* Standards Mode
+* Quirks Mode
+* Almost Standards Mode
+* Browser behavior
+* Validation
+* Common misconceptions
+* Real-world examples
+* Browser internals
+
+By the end of Chapter 2, you'll understand why this single line plays such an important role in modern web development.
+
+---
+
+> **End of Chapter 1**
+
+
