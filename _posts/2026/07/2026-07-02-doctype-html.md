@@ -1,6 +1,6 @@
 ---
-title: "Chapter 2: <!DOCTYPE html> | The Complete HTML Reference: A–Z Guide for Modern Web Development"
-description: "Master the HTML <!DOCTYPE html> declaration—from its history and purpose to browser rendering modes, standards compliance, and best practices."
+title: "Chapter 2: &lt;!DOCTYPE html&gt; | The Complete HTML Reference: A–Z Guide for Modern Web Development"
+description: "Master the HTML &lt;!DOCTYPE html&gt; declaration—from its history and purpose to browser rendering modes, standards compliance, and best practices."
 date: 2026-07-02 13:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, html5, doctype, browser, standards, html reference]
