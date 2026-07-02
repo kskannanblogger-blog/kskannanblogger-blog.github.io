@@ -725,7 +725,7 @@ A valid HTML5 DOCTYPE declaration is the simplest way to activate Standards Mode
 
 Example:
 
-```html id="l9wq7n"
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -773,7 +773,7 @@ The most common causes include:
 
 For example:
 
-```html id="6ph73m"
+```html
 <html>
 <head>
     <title>No DOCTYPE</title>
@@ -855,7 +855,7 @@ Let's compare two nearly identical documents.
 
 ### Example 1: With DOCTYPE
 
-```html id="g9zyx1"
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -879,7 +879,7 @@ Result:
 
 ### Example 2: Without DOCTYPE
 
-```html id="q7xp5t"
+```html
 <html>
 <head>
     <title>Example</title>
@@ -908,7 +908,7 @@ One of the most famous differences between Standards Mode and Quirks Mode involv
 
 Suppose you write:
 
-```css id="8b6pqw"
+```css
 .box {
     width: 300px;
     padding: 20px;
@@ -956,7 +956,7 @@ This information is especially useful when debugging older websites.
 
 Today, nearly every HTML document begins with:
 
-```html id="6yepgl"
+```html
 <!DOCTYPE html>
 ```
 
@@ -1015,6 +1015,415 @@ In the next section of Chapter 2, we'll move deeper into browser internals by ex
 
 This will give you a behind-the-scenes understanding of what the browser does before it even begins building the document tree.
 
+---
 
+# Browser Internals: How the HTML Parser Handles `<!DOCTYPE html>`
 
+In the previous section, you learned that `<!DOCTYPE html>` influences the browser's rendering mode.
 
+Now let's go one step deeper.
+
+Instead of asking **what** the DOCTYPE does, we'll answer **how** the browser processes it internally.
+
+Understanding this process provides valuable insight into how modern browsers transform plain text into an interactive webpage.
+
+---
+
+# The Browser Receives an HTML Document
+
+When you request a webpage, the server sends an HTML document to your browser.
+
+Remember:
+
+> An HTML document is simply a text file.
+
+For example:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>My Website</title>
+</head>
+
+<body>
+
+<h1>Hello World</h1>
+
+</body>
+
+</html>
+```
+
+At this stage, the browser does **not** yet know anything about:
+
+* Elements
+* Headings
+* Paragraphs
+* Images
+* Links
+
+It only sees a stream of characters.
+
+---
+
+# Stage 1: Reading Characters
+
+The browser begins reading the document from the first character.
+
+Imagine the document as a sequence of symbols:
+
+```text
+< ! D O C T Y P E h t m l >
+
+< h t m l >
+
+< h e a d >
+
+...
+```
+
+The browser processes these characters one by one.
+
+This process is extremely fast and highly optimized.
+
+---
+
+# Stage 2: Tokenization
+
+The next step is called **tokenization**.
+
+Tokenization means converting raw characters into meaningful units called **tokens**.
+
+For example:
+
+```html
+<!DOCTYPE html>
+```
+
+is recognized as a **DOCTYPE token**.
+
+Similarly,
+
+```html
+<html>
+```
+
+becomes a **Start Tag token**.
+
+```html
+</html>
+```
+
+becomes an **End Tag token**.
+
+Text between elements becomes **Character tokens**.
+
+---
+
+# Common HTML Tokens
+
+During parsing, browsers generate different types of tokens.
+
+| Token Type      | Example            |
+| --------------- | ------------------ |
+| DOCTYPE Token   | `<!DOCTYPE html>`  |
+| Start Tag Token | `<body>`           |
+| End Tag Token   | `</body>`          |
+| Comment Token   | `<!-- comment -->` |
+| Character Token | `Hello World`      |
+| EOF Token       | End of File        |
+
+These tokens are processed one after another.
+
+---
+
+# Stage 3: Processing the DOCTYPE Token
+
+The very first significant token is usually the DOCTYPE token.
+
+When the browser encounters:
+
+```html
+<!DOCTYPE html>
+```
+
+it performs several checks.
+
+The browser asks questions such as:
+
+* Is this a valid DOCTYPE?
+* Is it an HTML5 DOCTYPE?
+* Should Standards Mode be enabled?
+* Should compatibility mode be used?
+
+Notice something important:
+
+The browser is making these decisions **before** it begins constructing the document tree.
+
+---
+
+# Why This Happens First
+
+The browser needs to know which parsing and rendering rules should be followed.
+
+Imagine trying to assemble a machine without knowing which instruction manual to use.
+
+The browser avoids this problem by evaluating the DOCTYPE immediately.
+
+Only after determining the rendering mode does it continue parsing the rest of the document.
+
+---
+
+# Stage 4: Creating the Document Object
+
+Once the rendering mode has been selected, the browser creates an internal **Document object**.
+
+Think of this object as the root container for everything that follows.
+
+Initially, it is almost empty.
+
+```text
+Document
+```
+
+As more HTML is parsed, additional nodes are attached to this document.
+
+---
+
+# Stage 5: Parsing the `<html>` Element
+
+Next, the browser encounters:
+
+```html
+<html lang="en">
+```
+
+A new **HTML element node** is created.
+
+The internal structure now becomes:
+
+```text
+Document
+│
+└── html
+```
+
+The browser continues expanding this structure as it reads more elements.
+
+---
+
+# Stage 6: Parsing the `<head>` Element
+
+When the parser reaches:
+
+```html
+<head>
+```
+
+another node is created.
+
+```text
+Document
+│
+└── html
+    │
+    └── head
+```
+
+The browser then processes everything inside the `<head>` element, including:
+
+* `<meta>`
+* `<title>`
+* `<link>`
+* `<style>`
+* `<script>`
+
+---
+
+# Stage 7: Parsing the `<body>` Element
+
+Eventually, the parser reaches:
+
+```html
+<body>
+```
+
+The internal structure grows again.
+
+```text
+Document
+│
+└── html
+    │
+    ├── head
+    │
+    └── body
+```
+
+From this point onward, visible page content is added beneath the `<body>` node.
+
+---
+
+# The DOM Is Built Incrementally
+
+The browser does **not** wait until the entire file has been downloaded before constructing the DOM.
+
+Instead, it builds the DOM **incrementally**.
+
+As each element is parsed:
+
+* A node is created.
+* The node is attached to its parent.
+* The DOM grows continuously.
+
+This allows browsers to begin rendering parts of the page before the entire document has finished downloading.
+
+---
+
+# Is the DOCTYPE Part of the DOM?
+
+One of the most common questions is:
+
+> "Does `<!DOCTYPE html>` become an HTML element in the DOM?"
+
+The answer is:
+
+**No.**
+
+The DOCTYPE declaration is **not** an HTML element.
+
+It is **not** represented as an element node within the DOM tree.
+
+Instead, it is processed separately before normal HTML parsing begins.
+
+Conceptually:
+
+```text
+DOCTYPE
+        │
+        ▼
+
+Rendering Mode Selected
+
+        │
+        ▼
+
+DOM Construction Begins
+```
+
+This separation is one of the reasons the DOCTYPE is classified as a declaration rather than an HTML element.
+
+---
+
+# Simplified Parsing Workflow
+
+The browser's workflow can be summarized as follows.
+
+```mermaid
+flowchart TD
+
+A[Receive HTML Document]
+
+B[Read Characters]
+
+C[Tokenizer]
+
+D[DOCTYPE Token]
+
+E[Determine Rendering Mode]
+
+F[Create Document]
+
+G[Parse html Element]
+
+H[Parse head]
+
+I[Parse body]
+
+J[Build DOM]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
+I --> J
+```
+
+Although modern browser engines are far more sophisticated, this diagram captures the fundamental sequence.
+
+---
+
+# What Happens If the DOCTYPE Is Invalid?
+
+Suppose the browser encounters an invalid or malformed declaration.
+
+Instead of entering Standards Mode, it may switch to:
+
+* Almost Standards Mode
+* Quirks Mode
+
+The exact behavior depends on the declaration and the browser's compatibility rules.
+
+This is why copying obsolete DOCTYPE declarations from old websites is discouraged.
+
+---
+
+# Browser Engines
+
+Different browsers use different rendering engines.
+
+For example:
+
+| Browser         | Rendering Engine |
+| --------------- | ---------------- |
+| Google Chrome   | Blink            |
+| Microsoft Edge  | Blink            |
+| Safari          | WebKit           |
+| Mozilla Firefox | Gecko            |
+
+Although these engines are implemented differently, they all follow the HTML Living Standard closely when processing a valid HTML5 DOCTYPE.
+
+---
+
+# Did You Know?
+
+> The HTML parser in a modern browser can process **millions of characters per second**, allowing even large HTML documents to be parsed almost instantly on modern hardware.
+
+---
+
+# Summary
+
+In this section, you learned:
+
+* How browsers read HTML as plain text.
+* What tokenization is.
+* Why `<!DOCTYPE html>` is processed before HTML elements.
+* How the browser determines its rendering mode.
+* How the Document object is created.
+* How the DOM grows incrementally.
+* Why the DOCTYPE is not part of the DOM.
+* How browser engines handle HTML parsing.
+
+---
+
+## Coming Up Next
+
+In the next section of Chapter 2, we'll explore:
+
+* HTML validation
+* Common DOCTYPE mistakes
+* Real-world examples
+* Browser compatibility
+* Frequently asked questions
+* Hands-on experiments
+* Interview questions
+* Chapter summary
+
+After that, **Chapter 2 will be complete**, and we'll begin **Chapter 3: `<html>`**, where we'll explore the root element of every HTML document in complete detail.
+ 
