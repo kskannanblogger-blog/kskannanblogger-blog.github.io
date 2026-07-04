@@ -2,7 +2,7 @@
 title: "Gentle Reminder to the Honourable Prime Minister of India"
 date: 2026-06-19 18:55:00 +0530
 categories: [India, Governance]
-tags: [water-security, river-interlinking, agriculture, farmers]
+tags: [river-interlinking, agriculture, farmers]
 description: A sincere appeal from the soil of India, the farmers of India, and the conscience of a billion citizens regarding the National River Interlinking Project.
 pin: false
 math: false
@@ -42,11 +42,11 @@ India receives enough rainfall to meet its needs — but it falls in just 100 ho
 
 Every year, we mourn. In Assam and Bihar, floods drown villages. In Maharashtra and Tamil Nadu, droughts crack the earth. Ironically, the same monsoon that destroys one state bypasses another. River interlinking allows us to capture excess floodwater in reservoirs and transfer it to rain-deficient regions. It turns a disaster into a resource. Why should a farmer in Bengal watch his home wash away while a farmer in Telangana watches his crop burn?
 
-| **Statistic** | **Impact** |
-|---------------|------------|
-| 300,000+ | Farmers lost since 1990s |
-| 35 Mha | Additional irrigation potential |
-| 34,000 MW | Potential hydropower |
+| **Statistic** | **Impact**                      |
+| ------------- | ------------------------------- |
+| 300,000+      | Farmers lost since 1990s        |
+| 35 Mha        | Additional irrigation potential |
+| 34,000 MW     | Potential hydropower            |
 
 ### 3. Preventing Farmer Suicides – A Moral Imperative
 

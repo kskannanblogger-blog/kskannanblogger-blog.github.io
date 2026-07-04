@@ -2,7 +2,7 @@
 title: "The Global Mandate: Why We Must Eradicate Corruption"
 date: 2026-06-16 20:00:00 +0530
 categories: [Governance, Social Justice]
-tags: [corruption, transparency, governance, anti-corruption]
+tags: [corruption, governance, anti-corruption]
 description: A comprehensive roadmap for building a corruption-free future through government action and public participation.
 pin: false
 math: false

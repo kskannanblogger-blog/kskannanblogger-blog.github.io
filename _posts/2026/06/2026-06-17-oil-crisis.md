@@ -2,7 +2,7 @@
 title: "The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future"
 date: 2026-06-17 17:38:00 +0530
 categories: [Energy, Environment]
-tags: [oil-crisis, renewable-energy, climate-change, energy-transition]
+tags: [oil-crisis, renewable-energy]
 description: A comprehensive breakdown of the global oil crisis, policy interventions, energy alternatives, and everyday actions to accelerate the transition.
 pin: false
 math: false

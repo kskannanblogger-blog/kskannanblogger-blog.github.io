@@ -1,8 +1,8 @@
 ---
 title: "Plastic Currency: Smart Future or Hidden Trap? (Pros & Cons You Must Know)"
 date: 2026-06-20 08:18:00 +0530
-categories: [Economy, Finance]
-tags: [plastic-currency, polymer-notes, digital-payments, currency]
+categories: [Economy]
+tags: [plastic-currency, digital-payments]
 description: Real-world insights on plastic currency - a complete guide exploring the advantages and disadvantages of polymer banknotes.
 pin: false
 math: false
@@ -56,13 +56,13 @@ Have you ever wondered why many countries are switching from paper money to **pl
 
 Countries like **Australia** (world's first polymer banknote in 1988), **Canada**, **United Kingdom**, **New Zealand**, and **Romania** have fully adopted plastic money. Even **India** introduced plastic ₹10 notes on a trial basis. The global trend shows durability and cleanliness win over initial costs. Let's check a quick comparison below:
 
-| Feature | Paper Currency | Plastic (Polymer) Currency |
-|---------|---------------|---------------------------|
-| Lifespan | ~12-24 months | ~4-7 years |
-| Water resistant | No | Yes |
-| Recyclable | Limited (shredded for composting) | Yes (specialized plants) |
-| Counterfeit risk | Higher | Very low with advanced security |
-| Production cost | Lower initial | Higher upfront, cheaper long-term |
+| Feature          | Paper Currency                    | Plastic (Polymer) Currency        |
+| ---------------- | --------------------------------- | --------------------------------- |
+| Lifespan         | ~12-24 months                     | ~4-7 years                        |
+| Water resistant  | No                                | Yes                               |
+| Recyclable       | Limited (shredded for composting) | Yes (specialized plants)          |
+| Counterfeit risk | Higher                            | Very low with advanced security   |
+| Production cost  | Lower initial                     | Higher upfront, cheaper long-term |
 
 ---
 

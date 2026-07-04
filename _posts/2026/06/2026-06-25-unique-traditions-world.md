@@ -2,7 +2,7 @@
 title: "Unique Traditions Around the World: An Anthropological Journey"
 date: 2026-06-25 18:00:00 +0530
 categories: [Culture, Anthropology]
-tags: [traditions, rituals, cultural-diversity, anthropology, world-cultures]
+tags: [traditions, anthropology, world-cultures]
 description: An anthropological journey into human diversity — rituals that define us, celebrate life, and reveal our shared soul.
 pin: false
 math: false

@@ -2,7 +2,7 @@
 title: "Say No to Drugs, Say Yes to Life"
 date: 2026-06-24 18:00:00 +0530
 categories: [Health, Social Issues]
-tags: [drug-abuse, addiction, prevention, recovery, awareness]
+tags: [drug-abuse, awareness]
 description: Choose freedom, clarity, and a future without limits - A comprehensive guide to drug abuse prevention and recovery.
 pin: false
 math: false
@@ -57,13 +57,13 @@ Potent synthetic opioids like [fentanyl](https://en.wikipedia.org/wiki/Fentanyl)
 
 ## Global Snapshot: The Scale of Crisis
 
-| Statistic | Impact |
-|-----------|--------|
-| **~284M** | people used drugs worldwide (2022 estimate, [UNODC](https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime){:target="_blank"}) |
-| **1 in 17** | young adolescents exposed to illicit drugs before 18 |
-| **Only 1 in 5** | people with drug use disorders receive treatment |
-| **500,000+** | annual deaths linked to drug use (WHO) |
-| **$600B+** | global economic burden (healthcare, crime, lost productivity) |
+| Statistic       | Impact                                                                                                                                         |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **~284M**       | people used drugs worldwide (2022 estimate, [UNODC](https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime){:target="_blank"}) |
+| **1 in 17**     | young adolescents exposed to illicit drugs before 18                                                                                           |
+| **Only 1 in 5** | people with drug use disorders receive treatment                                                                                               |
+| **500,000+**    | annual deaths linked to drug use (WHO)                                                                                                         |
+| **$600B+**      | global economic burden (healthcare, crime, lost productivity)                                                                                  |
 
 *Figures vary by country & year — based on UNODC/WHO reports. Verify with official national sources for current data.*
 

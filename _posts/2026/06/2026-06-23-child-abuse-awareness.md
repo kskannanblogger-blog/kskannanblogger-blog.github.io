@@ -1,8 +1,8 @@
 ---
 title: "Child Abuse Awareness: Every Child Deserves Safety and Love"
 date: 2026-06-23 18:00:00 +0530
-categories: [Social Issues, Child Welfare]
-tags: [child-abuse, child-protection, safety, awareness, parenting]
+categories: [Social Justice]
+tags: [child-abuse, child-protection]
 description: Silence hides the pain — but speaking up saves lives. Let us learn, act, and protect the innocence of childhood.
 pin: false
 math: false
@@ -52,12 +52,12 @@ Grooming, cyberbullying, sextortion, child sexual abuse material. *Examples:* Pr
 
 ## Global Reality: Statistics That Call Us to Act
 
-| Statistic | Reality |
-|-----------|---------|
+| Statistic  | Reality                                                                          |
+| ---------- | -------------------------------------------------------------------------------- |
 | **1 in 5** | girls and 1 in 13 boys experience sexual abuse before age 18 (UNICEF estimates). |
-| **~40%** | of abuse cases go unreported globally, according to WHO. |
-| **3 in 4** | children aged 2–4 experience violent discipline by caregivers. |
-| **120M+** | girls worldwide have experienced forced sexual contact (UNICEF). |
+| **~40%**   | of abuse cases go unreported globally, according to WHO.                         |
+| **3 in 4** | children aged 2–4 experience violent discipline by caregivers.                   |
+| **120M+**  | girls worldwide have experienced forced sexual contact (UNICEF).                 |
 
 *Figures vary by country and reporting methods. Verify latest data from official sources: [UNICEF](https://www.unicef.org){:target="_blank"}, [WHO](https://www.who.int){:target="_blank"}.*
 

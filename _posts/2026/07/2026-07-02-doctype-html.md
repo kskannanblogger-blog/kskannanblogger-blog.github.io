@@ -3,7 +3,7 @@ title: "Chapter 2: &lt;!DOCTYPE html&gt; | The Complete HTML Reference: A–Z Gu
 description: "Master the HTML &lt;!DOCTYPE html&gt; declaration—from its history and purpose to browser rendering modes, standards compliance, and best practices."
 date: 2026-07-02 13:00:00 +0530
 categories: [HTML, Web Development]
-tags: [html, html5, doctype, browser, standards, html reference]
+tags: [html5, doctype, html reference]
 toc: true
 comments: true
 mermaid: true
@@ -804,13 +804,13 @@ Most developers will rarely encounter Almost Standards Mode directly, but browse
 
 # Comparing the Three Modes
 
-| Feature                        | Standards Mode | Almost Standards Mode | Quirks Mode                       |
-| ------------------------------ | -------------- | --------------------- | --------------------------------- |
+| Feature                        | Standards Mode | Almost Standards Mode | Quirks Mode                      |
+| ------------------------------ | -------------- | --------------------- | -------------------------------- |
 | Modern HTML parsing            | ✅              | ✅                     | ⚠️ Limited compatibility behavior |
-| Modern CSS support             | ✅              | ✅                     | ❌ Legacy behavior may apply       |
-| Recommended for new websites   | ✅              | ❌                     | ❌                                 |
-| Triggered by `<!DOCTYPE html>` | ✅              | ❌                     | ❌                                 |
-| Intended for legacy websites   | ❌              | ⚠️ Occasionally       | ✅                                 |
+| Modern CSS support             | ✅              | ✅                     | ❌ Legacy behavior may apply      |
+| Recommended for new websites   | ✅              | ❌                     | ❌                                |
+| Triggered by `<!DOCTYPE html>` | ✅              | ❌                     | ❌                                |
+| Intended for legacy websites   | ❌              | ⚠️ Occasionally        | ✅                                |
 
 ---
 

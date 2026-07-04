@@ -2,7 +2,7 @@
 title: "AI is Eating the IT World: What Happens Next? (Full 2030 Outlook)"
 date: 2026-06-20 15:00:00 +0530
 categories: [Technology, Artificial Intelligence]
-tags: [ai, it-careers, future-of-work, generative-ai, technology-trends]
+tags: [it-careers, generative-ai, technology-trends]
 description: The boom of artificial intelligence and the future of IT careers - a complete 2030 outlook on how AI is transforming the IT industry.
 pin: false
 math: false
@@ -67,13 +67,13 @@ By 2026, over **75% of IT companies** have integrated AI copilots into daily wor
 
 ---
 
-| IT Area | Before AI boom | After AI boom (current & future) |
-|---------|---------------|----------------------------------|
-| Code writing | Manual line-by-line | AI generates 60–80%, humans review & refine |
-| Debugging | Hours of searching | AI suggests fixes in seconds |
-| Cybersecurity | Reactive threat detection | AI-driven predictive defense & auto-patching |
-| Cloud management | Manual scaling & config | AI optimizes costs, auto-scales resources |
-| Helpdesk support | Tier-1 human agents | AI chatbots solve 70%+ tickets → humans focus on complex cases |
+| IT Area          | Before AI boom            | After AI boom (current & future)                               |
+| ---------------- | ------------------------- | -------------------------------------------------------------- |
+| Code writing     | Manual line-by-line       | AI generates 60–80%, humans review & refine                    |
+| Debugging        | Hours of searching        | AI suggests fixes in seconds                                   |
+| Cybersecurity    | Reactive threat detection | AI-driven predictive defense & auto-patching                   |
+| Cloud management | Manual scaling & config   | AI optimizes costs, auto-scales resources                      |
+| Helpdesk support | Tier-1 human agents       | AI chatbots solve 70%+ tickets → humans focus on complex cases |
 
 ---
 

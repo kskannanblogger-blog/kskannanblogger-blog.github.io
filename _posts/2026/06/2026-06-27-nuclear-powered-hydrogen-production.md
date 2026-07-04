@@ -2,7 +2,7 @@
 title: India Inaugurates World’s First Nuclear-Powered Hydrogen Production Facility
 date: 2026-06-27 14:00:00 +0530
 categories: [Science, Technology]
-tags: [nuclear-energy, hydrogen-production, clean-energy, india, kalpakkam, barc, igcar]     # TAG names should always be lowercase
+tags: [nuclear-energy, hydrogen-production, india, kalpakkam]     # TAG names should always be lowercase
 pin: false
 toc: true
 math: false
@@ -86,11 +86,11 @@ To fully appreciate the significance of this achievement, it is essential to und
 
 India has a three-stage nuclear power programme designed to utilize its vast thorium reserves and achieve long-term energy self-sufficiency. The three stages are:
 
-| Stage | Reactor Type | Fuel Used | Objective |
-|-------|--------------|-----------|-----------|
-| **Stage I** | Pressurised Heavy Water Reactors (PHWRs) | Natural Uranium | Produce plutonium |
-| **Stage II** | Fast Breeder Reactors (FBRs) | Plutonium + Uranium-238 | Breed more fissile material than consumed |
-| **Stage III** | Advanced Heavy Water Reactors (AHWRs) | Thorium + Uranium-233 | Utilize India's abundant thorium reserves |
+| Stage         | Reactor Type                             | Fuel Used               | Objective                                 |
+| ------------- | ---------------------------------------- | ----------------------- | ----------------------------------------- |
+| **Stage I**   | Pressurised Heavy Water Reactors (PHWRs) | Natural Uranium         | Produce plutonium                         |
+| **Stage II**  | Fast Breeder Reactors (FBRs)             | Plutonium + Uranium-238 | Breed more fissile material than consumed |
+| **Stage III** | Advanced Heavy Water Reactors (AHWRs)    | Thorium + Uranium-233   | Utilize India's abundant thorium reserves |
 
 ### The Role of Fast Breeder Reactors
 
@@ -308,16 +308,16 @@ As Dr. Ajit Kumar Mohanty stated:
 
 ## 10. Further Reading & External Resources
 
-| Resource | Description |
-|----------|-------------|
-| [Department of Atomic Energy (DAE)](https://dae.gov.in/){:target="_blank" rel="noopener noreferrer"} | Official website of India's Department of Atomic Energy |
-| [Bhabha Atomic Research Centre (BARC)](https://www.barc.gov.in/){:target="_blank" rel="noopener noreferrer"} | Information on India's premier nuclear research facility |
-| [Indira Gandhi Centre for Atomic Research (IGCAR)](https://www.igcar.gov.in/){:target="_blank" rel="noopener noreferrer"} | Details on India's fast breeder reactor programme |
-| [Prototype Fast Breeder Reactor (PFBR)](https://bhavini.nic.in/){:target="_blank" rel="noopener noreferrer"} | Information on India's 500 MWe fast breeder reactor |
+| Resource                                                                                                                                                                   | Description                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Department of Atomic Energy (DAE)](https://dae.gov.in/){:target="_blank" rel="noopener noreferrer"}                                                                       | Official website of India's Department of Atomic Energy     |
+| [Bhabha Atomic Research Centre (BARC)](https://www.barc.gov.in/){:target="_blank" rel="noopener noreferrer"}                                                               | Information on India's premier nuclear research facility    |
+| [Indira Gandhi Centre for Atomic Research (IGCAR)](https://www.igcar.gov.in/){:target="_blank" rel="noopener noreferrer"}                                                  | Details on India's fast breeder reactor programme           |
+| [Prototype Fast Breeder Reactor (PFBR)](https://bhavini.nic.in/){:target="_blank" rel="noopener noreferrer"}                                                               | Information on India's 500 MWe fast breeder reactor         |
 | [Thermochemical Hydrogen Production](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting){:target="_blank" rel="noopener noreferrer"} | U.S. Department of Energy resource on thermochemical cycles |
-| [Clean Energy Ministerial](https://www.cleanenergyministerial.org/){:target="_blank" rel="noopener noreferrer"} | International forum for clean energy collaboration |
-| [World Nuclear Association](https://www.world-nuclear.org/){:target="_blank" rel="noopener noreferrer"} | Global information on nuclear energy applications |
-| [International Atomic Energy Agency (IAEA)](https://www.iaea.org/){:target="_blank" rel="noopener noreferrer"} | United Nations agency for nuclear cooperation |
+| [Clean Energy Ministerial](https://www.cleanenergyministerial.org/){:target="_blank" rel="noopener noreferrer"}                                                            | International forum for clean energy collaboration          |
+| [World Nuclear Association](https://www.world-nuclear.org/){:target="_blank" rel="noopener noreferrer"}                                                                    | Global information on nuclear energy applications           |
+| [International Atomic Energy Agency (IAEA)](https://www.iaea.org/){:target="_blank" rel="noopener noreferrer"}                                                             | United Nations agency for nuclear cooperation               |
 
 ---
 

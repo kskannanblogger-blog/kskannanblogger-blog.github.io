@@ -2,7 +2,7 @@
 title: "44 Years of Waiting, 96 Minutes of Mayhem: Algeria and Austria Serve Up a Kansas City Classic"
 date: 2026-06-28 18:00:00 +0530
 categories: [Sports, Football]
-tags: [world-cup-2026, algeria, austria, group-j, football-match-report]     
+tags: [world-cup-2026, football-match-report]     
 pin: false
 toc: true
 math: false
@@ -83,10 +83,10 @@ Both Algeria and Austria qualify from Group J, but the story of this match will 
 
 ## Match Summary
 
-| Team | Goals | Scorers |
-| :--- | :--- | :--- |
-| **Algeria** | 3 | Rafik Belghali (45'), Riyad Mahrez (60', 90+3')  |
-| **Austria** | 3 | Marko Arnautovic (28'), Marcel Sabitzer (55'), Sasa Kalajdzic (90+6')  |
+| Team        | Goals | Scorers                                                               |
+| :---------- | :---- | :-------------------------------------------------------------------- |
+| **Algeria** | 3     | Rafik Belghali (45'), Riyad Mahrez (60', 90+3')                       |
+| **Austria** | 3     | Marko Arnautovic (28'), Marcel Sabitzer (55'), Sasa Kalajdzic (90+6') |
 
 **Key Takeaways:**
 - **History Reversed:** This match was a complete antithesis to the infamous "Disgrace of Gijón." 
@@ -97,11 +97,11 @@ Both Algeria and Austria qualify from Group J, but the story of this match will 
 
 ## Further Reading & External Resources
 
-| Resource | Description |
-|----------|-------------|
-| <a href="https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497" target="_blank" rel="noopener noreferrer">Official FIFA Match Centre</a> | Full stats and official match report from FIFA.  |
-| <a href="https://www.skysports.com/football/algeria-vs-austria/report/549832" target="_blank" rel="noopener noreferrer">Sky Sports Match Report</a> | An in-depth analysis of the match and its implications.  |
-| <a href="https://prod.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/live-blog-algeria-vs-austria-in-the-2026-fifa-world-cup-2026-06-27" target="_blank" rel="noopener noreferrer">beIN SPORTS Live Blog</a> | A detailed live blog covering the pre-match build-up and action.  |
+| Resource                                                                                                                                                                                                               | Description                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| <a href="https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497" target="_blank" rel="noopener noreferrer">Official FIFA Match Centre</a>                                                               | Full stats and official match report from FIFA.                  |
+| <a href="https://www.skysports.com/football/algeria-vs-austria/report/549832" target="_blank" rel="noopener noreferrer">Sky Sports Match Report</a>                                                                    | An in-depth analysis of the match and its implications.          |
+| <a href="https://prod.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/live-blog-algeria-vs-austria-in-the-2026-fifa-world-cup-2026-06-27" target="_blank" rel="noopener noreferrer">beIN SPORTS Live Blog</a> | A detailed live blog covering the pre-match build-up and action. |
 
 ---
 
