@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Broken Chain: How a Bicycle, a Lorry, and Bangalore Taught Me About Peace"
 date: 2026-06-15 08:00:00 +0530
 categories: [Travel, Politics, Memory]

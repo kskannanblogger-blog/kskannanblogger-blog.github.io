@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Which G7 Leader Is Governing Best in 2026? What Japan Can Teach the World"
 date: 2026-06-21 16:45:00 +0530
 categories: [Politics, Economics, World Affairs]

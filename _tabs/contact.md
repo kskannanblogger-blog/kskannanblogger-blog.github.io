@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact
 icon: fas fa-envelope
 order: 6
 ---

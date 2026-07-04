@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Unfinished Map: A Foreword"
 date: 2026-06-13 16:48:00 +0530
 categories: [Foreword, Beginning]
