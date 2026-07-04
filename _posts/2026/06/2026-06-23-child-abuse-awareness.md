@@ -1,7 +1,7 @@
 ---
 title: "Child Abuse Awareness: Every Child Deserves Safety and Love"
 date: 2026-06-23 18:00:00 +0530
-categories: [Social Justice]
+categories: [Social Justice, Social Issue]
 tags: [child-abuse, child-protection]
 description: Silence hides the pain — but speaking up saves lives. Let us learn, act, and protect the innocence of childhood.
 pin: false

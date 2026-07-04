@@ -1,7 +1,7 @@
 ---
 title: "Gentle Reminder to the Honourable Prime Minister of India"
 date: 2026-06-19 18:55:00 +0530
-categories: [India, Governance]
+categories: [Governance, India]
 tags: [river-interlinking, agriculture, farmers]
 description: A sincere appeal from the soil of India, the farmers of India, and the conscience of a billion citizens regarding the National River Interlinking Project.
 pin: false

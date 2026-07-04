@@ -2,7 +2,7 @@
 title: "Chapter 3: The `&lt;html&gt;` Element | The Complete HTML Reference: A–Z Guide for Modern Web Development"
 description: "A complete reference to the HTML `&lt;html&gt;` element, including syntax, attributes, browser internals, DOM representation, accessibility, SEO, internationalization, and best practices."
 date: 2026-07-03 22:00:00 +0530
-categories: [HTML, Web Development]
+categories: [Technology, Web Development]
 tags: [html5, html element, html reference]
 toc: true
 comments: true

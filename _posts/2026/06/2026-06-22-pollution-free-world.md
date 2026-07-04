@@ -1,7 +1,7 @@
 ---
 title: "Pollution Free World: A Dream We Can Make Real"
 date: 2026-06-22 18:23:51 +0530
-categories: [Environment]
+categories: [Environment, Social Issue]
 tags: [pollution, environment]
 image:
   path: /assets/posts/images/2026/06/pollution-free-world.jpg
