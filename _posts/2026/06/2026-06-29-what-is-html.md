@@ -2,7 +2,7 @@
 title: "Chapter 1: What is HTML? | The Complete HTML Reference: A-Z Guide for Modern Web Development"
 description: "Learn what HTML is, why it was created, how it works, and why it remains the foundation of every website. This is Chapter 1 of The Complete HTML Reference: A-Z Guide for Modern Web Development."
 date: 2026-06-29 18:30:00 +0530
-categories: [Technologoy, Web Development]
+categories: [HTML, Web Development]
 tags: [html5, web development, html reference]
 comments: true
 mermaid: true
