@@ -1,6 +1,6 @@
 ---
 
-title: "Chapter 5: The `&lt;body&gt;` Element – Building the Visible Webpage"
+title: "Chapter 5.1: The `&lt;body&gt;` Element – Building the Visible Webpage"
 description: "Learn everything about the HTML &lt;body&gt; element, how browsers render visible content, document flow, best practices, and real-world examples."
 categories: [HTML, Web Development]
 tags: [html, body, html tutorial]
@@ -13,7 +13,7 @@ image:
   alt: "The complete HTML A-Z Reference"
 ---
 
-# Chapter 5: The `<body>` Element – Building the Visible Webpage
+# Chapter 5.1: The `<body>` Element – Building the Visible Webpage
 
 ## Introduction
 
@@ -537,7 +537,7 @@ These concepts form the foundation for understanding every visible HTML element 
 
 ---
 
-# Understanding Content Inside the `<body>`
+# 5.2 Understanding Content Inside the `<body>`
 
 When you open a webpage, you see text, images, buttons, menus, videos, and many other visual components.
 
@@ -1065,7 +1065,7 @@ The heading elements are much more than simply "big text"—they define the logi
 
 ---
 
-# HTML Heading Elements (`<h1>`–`<h6>`) — Structuring Documents with Meaning
+# 5.3 HTML Heading Elements (`<h1>`–`<h6>`) — Structuring Documents with Meaning
 
 Heading elements are among the most important HTML elements because they provide the **structural outline** of a document.
 
