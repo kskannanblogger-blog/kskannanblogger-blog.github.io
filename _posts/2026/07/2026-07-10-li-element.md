@@ -1,5 +1,5 @@
 ---
-title: "Chapter 55.12 - The `&lt;li&gt;` Element"
+title: "Chapter 5.12 - The `&lt;li&gt;` Element"
 description: "Complete guide to the HTML `&lt;li&gt;` element including list items, ordered and unordered lists, DOM behavior, CSS styling, accessibility, JavaScript, SEO, and professional best practices."
 date: 2026-07-10 18:00:00 +0530
 categories: [HTML, Web Development]
