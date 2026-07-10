@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.8 - The `&lt;pre&gt;` Element"
 description: "Complete guide to the HTML `&lt;pre&gt;` element including whitespace preservation, browser rendering, code examples, accessibility, CSS, JavaScript, SEO, and best practices."
 date: 2026-07-08 14:20:00 +0530

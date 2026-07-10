@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.10 - The `&lt;ol&gt;` Element"
 description: "Complete guide to the HTML `&lt;ol&gt;` element including ordered lists, attributes, nesting, accessibility, DOM behavior, CSS styling, SEO, and professional best practices."
 date: 2026-07-09 16:00:00 +0530
@@ -2289,7 +2288,7 @@ The `<ol>` element appears everywhere in modern websites because many types of i
 
 # Example 1 — Software Installation Instructions
 
-```html id="c8m5qx"
+```html
 <h2>
 
 Installing Jekyll
@@ -2331,7 +2330,7 @@ This is a perfect use case because changing the order would affect the result.
 
 # Example 2 — Recipe Instructions
 
-```html id="f9r2kw"
+```html
 <h2>
 
 Making Coffee
@@ -2373,7 +2372,7 @@ A recipe is naturally an ordered process.
 
 # Example 3 — Tutorial Chapters
 
-```html id="m6x8vp"
+```html
 <ol>
 
 <li>
@@ -2411,7 +2410,7 @@ Documentation websites frequently use ordered lists for learning paths.
 
 Example:
 
-```html id="t4n7ys"
+```html
 <h2>
 
 Top Programming Languages
@@ -2461,7 +2460,7 @@ Example:
 
 The generated HTML:
 
-```html id="q5r9mc"
+```html
 <ol>
 
 <li>
@@ -2533,7 +2532,7 @@ Markdown:
 
 Generated HTML:
 
-```html id="h9q5mt"
+```html
 <ol>
 
 <li>
@@ -2581,7 +2580,7 @@ Example Jekyll post:
 
 Generated output:
 
-```html id="b4m8vy"
+```html
 <h2>
 
 Deployment Steps

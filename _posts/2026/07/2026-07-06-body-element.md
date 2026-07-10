@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.1: The `&lt;body&gt;` Element – Building the Visible Webpage"
 description: "Learn everything about the HTML &lt;body&gt; element, how browsers render visible content, document flow, best practices, and real-world examples."
 categories: [HTML, Web Development]

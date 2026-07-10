@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.5 — The `&lt;br&gt;` Element"
 description: "A complete technical reference to the HTML `&lt;br&gt;` element, including syntax, browser behavior, accessibility, DOM representation, rendering, best practices, and real-world examples."
 date: 2026-07-07 4:00:00 +0530

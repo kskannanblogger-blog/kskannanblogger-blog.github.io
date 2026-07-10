@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 4: The `&lt;head&gt;` Element | The Complete HTML Reference: A–Z Guide for Modern Web Development"
 description: "Learn everything about the HTML `&lt;head&gt;` element, including metadata, browser behavior, SEO, resource loading, accessibility, and best practices."
 date: 2026-07-04 16:00:00 +0530

@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.6 — The `&lt;hr&gt;` Element"
 description: "A complete technical reference to the HTML `&lt;hr&gt;` element, including semantics, browser behavior, rendering, accessibility, CSS customization, and professional best practices."
 date: 2026-07-07 19:00:00 +0530

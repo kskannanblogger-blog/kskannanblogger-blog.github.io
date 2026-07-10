@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.7 — The `&lt;wbr&gt;` Element"
 description: "Complete guide to the HTML `&lt;wbr&gt;` element with browser algorithms, responsive typography, soft wrap opportunities, accessibility, SEO, JavaScript, and real-world examples."
 date: 2026-07-08 14:00:00 +0530

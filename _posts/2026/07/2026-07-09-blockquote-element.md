@@ -1,5 +1,4 @@
 ---
-
 title: "Chapter 5.9 — The `&lt;blockquote&gt;` Element"
 description: "Complete guide to the HTML `&lt;blockquote&gt;` element including semantics, citations, accessibility, SEO, browser behavior, and professional best practices."
 date: 2026-07-09 13:00:00 +0530
