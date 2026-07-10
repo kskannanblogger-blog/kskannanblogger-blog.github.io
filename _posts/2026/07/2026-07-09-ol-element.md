@@ -2450,7 +2450,7 @@ Markdown provides a simple way to create ordered lists.
 
 Example:
 
-```markdown id="w8p3fz"
+```markdown
 1. Learn HTML
 
 2. Learn CSS
@@ -2492,7 +2492,7 @@ Static site generators such as Jekyll automatically convert Markdown lists into 
 
 Markdown authors can write:
 
-```markdown id="v3m7kp"
+```markdown
 1. First item
 
 1. Second item
@@ -2502,7 +2502,7 @@ Markdown authors can write:
 
 The renderer still produces:
 
-```text id="n8x2qd"
+```text
 1. First item
 
 2. Second item
@@ -2518,7 +2518,7 @@ This prevents manual numbering mistakes.
 
 Markdown:
 
-```markdown id="p6k4wr"
+```markdown
 1. Frontend
 
    1. HTML
@@ -2568,7 +2568,7 @@ Jekyll uses Markdown processors such as Kramdown to convert lists into HTML.
 
 Example Jekyll post:
 
-```markdown id="r7c2nx"
+```markdown
 ## Deployment Steps
 
 1. Build the site
@@ -2613,7 +2613,7 @@ You can customize all ordered lists through your CSS file.
 
 Example:
 
-```css id="x6p9qm"
+```css
 .post-content ol{
 
 padding-left:30px;
@@ -2665,7 +2665,7 @@ Deploy website
 
 CSS:
 
-```css id="d5m7px"
+```css
 .tutorial-steps{
 
 counter-reset:steps;
@@ -2699,7 +2699,7 @@ However, problems may occur when list content comes from users.
 
 Example:
 
-```javascript id="j8q4mv"
+```javascript
 list.innerHTML =
 userInput;
 ```
@@ -2712,7 +2712,7 @@ This can allow malicious HTML injection.
 
 Use:
 
-```javascript id="s4n6ty"
+```javascript
 list.textContent =
 userInput;
 ```
