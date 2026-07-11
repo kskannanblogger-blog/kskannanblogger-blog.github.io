@@ -5,8 +5,6 @@ date: 2026-07-08 14:20:00 +0530
 categories: [HTML, Web Development]
 tags: [html, pre, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/pre-element.jpg
   alt: "The complete HTML A-Z Reference"

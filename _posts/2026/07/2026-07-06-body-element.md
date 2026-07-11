@@ -5,11 +5,14 @@ categories: [HTML, Web Development]
 tags: [html, body, html tutorial]
 date: 2026-07-06 15:00:00 +0530
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/body-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;head&gt;` Element"
+    url: "/posts/head-element/"
+  - title: "The `&lt;html&gt;` Element"
+    url: "/posts/html-element/"  
 ---
 
 # Chapter 5.1: The `<body>` Element – Building the Visible Webpage
@@ -3074,3 +3077,5 @@ In the next section, we'll begin our exploration of the **`<p>` (Paragraph) elem
 * Common mistakes.
 
 You'll discover that `<p>` is much more than "just a block of text"—it is one of the most fundamental semantic elements in HTML.
+
+---

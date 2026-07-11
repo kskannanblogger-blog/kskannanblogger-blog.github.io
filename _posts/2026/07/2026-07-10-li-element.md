@@ -5,11 +5,16 @@ date: 2026-07-10 18:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, li, list-item, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/li-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;ul&gt;` Element"
+    url: "/posts/ul-element/"
+  - title: "The `&lt;ol&gt;` Element"
+    url: "/posts/ol-element/"
+  - title: "The `&lt;dl&gt;` Element"
+    url: "/posts/dl-element/"
 ---
 
 # Chapter 5.12 — The `<li>` Element
@@ -2562,3 +2567,5 @@ Description lists are ideal for glossaries, technical documentation, metadata, s
 **Status: ✅ Complete**
 
 The HTML `<li>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+---

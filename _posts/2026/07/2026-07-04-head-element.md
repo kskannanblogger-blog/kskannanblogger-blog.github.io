@@ -5,8 +5,6 @@ date: 2026-07-04 16:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, head element, metadata, browser internals]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/head-element.jpg
   alt: "The complete HTML A-Z Reference"
@@ -5199,3 +5197,5 @@ Next, we move into the **visible structure of HTML**, including:
 * Semantic layout elements
 
 This is where HTML becomes **visually expressive and content-driven**.
+
+---

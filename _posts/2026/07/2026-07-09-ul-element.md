@@ -5,11 +5,16 @@ date: 2026-07-09 16:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, ul, unordered-list, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/ul-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;li&gt;` Element"
+    url: "/posts/li-element/"
+  - title: "The `&lt;ol&gt;` Element"
+    url: "/posts/ol-element/"
+  - title: "The `&lt;dl&gt;` Element"
+    url: "/posts/dl-element/"  
 ---
 
 # Chapter 5.11 — The `<ul>` Element
@@ -2616,3 +2621,5 @@ Although `<li>` appears simple, it is one of the most important structural eleme
 **Status: ✅ Complete**
 
 The `<ul>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+---

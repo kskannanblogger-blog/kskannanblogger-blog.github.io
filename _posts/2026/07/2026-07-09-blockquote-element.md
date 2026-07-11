@@ -5,8 +5,6 @@ date: 2026-07-09 13:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, blockquote, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/blockquote-element.jpg
   alt: "The complete HTML A-Z Reference"
@@ -2487,3 +2485,5 @@ The `<ol>` element is fundamental to tutorials, step-by-step guides, documentati
 **Status: ✅ Complete**
 
 The `<blockquote>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+---

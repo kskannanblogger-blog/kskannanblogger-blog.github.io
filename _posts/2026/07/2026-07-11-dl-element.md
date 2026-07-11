@@ -5,11 +5,16 @@ date: 2026-07-11 09:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, dl, description-list, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/dl-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "What is HTML?"
+    url: "/posts/what-is-html/"
+  - title: "The &lt;ul&gt; Element"
+    url: "/posts/ul-element/"
+  - title: "The &lt;ol&gt; Element"
+    url: "/posts/ol-element/"  
 ---
 
 # Chapter 5.13 — The `<dl>` Element
@@ -2656,3 +2661,5 @@ Together with `<dd>`, the `<dt>` element completes the semantic structure of HTM
 **Status: ✅ Complete**
 
 The HTML `<dl>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+---

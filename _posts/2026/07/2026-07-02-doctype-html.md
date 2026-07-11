@@ -5,11 +5,10 @@ date: 2026-07-02 13:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html5, doctype, html reference]
 toc: true
-comments: true
 mermaid: true
 image:
   path: /assets/posts/images/2026/07/doctype-html.jpg
-  alt: "Complete HTML Reference: A-Z Guide for Modern Web Development" 
+  alt: "Complete HTML Reference: A-Z Guide for Modern Web Development"
 ---
 
 # Chapter 2: `<!DOCTYPE html>`

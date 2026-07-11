@@ -4,11 +4,11 @@ description: "Learn what HTML is, why it was created, how it works, and why it r
 date: 2026-06-29 18:30:00 +0530
 categories: [HTML, Web Development]
 tags: [html5, web development, html reference]
-comments: true
+toc: true
 mermaid: true
 image:
   path: /assets/posts/images/2026/06/complete-html-reference.jpg
-  alt: "Complete HTML Reference: A-Z Guide for Modern Web Development" 
+  alt: "Complete HTML Reference: A-Z Guide for Modern Web Development"
 ---
 
 # Chapter 1: What is HTML?

@@ -5,11 +5,16 @@ date: 2026-07-08 14:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, wbr, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/wbr-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;ul&gt;` Element"
+    url: "/posts/ul-element/"
+  - title: "The `&lt;ol&gt;` Element"
+    url: "/posts/ol-element/"
+  - title: "The `&lt;dl&gt;` Element"
+    url: "/posts/dl-element/"  
 ---
 
 # Chapter 5.7 — The `<wbr>` Element
@@ -2407,3 +2412,5 @@ The `<pre>` element is essential for documentation websites, programming tutoria
 **Status:** ✅ Complete
 
 The `<wbr>` element has now been documented comprehensively. Next, we'll continue Chapter 5 with the versatile and widely used **`<pre>` element**.
+
+---

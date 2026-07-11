@@ -5,12 +5,14 @@ date: 2026-07-03 22:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html5, html element, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/html-element.jpg
   alt: "The complete HTML A-Z Reference"
-
+related_links:
+  - title: "The `&lt;head&gt;` Element"
+    url: "/posts/head-element/"
+  - title: "The `&lt;body&gt;` Element"
+    url: "/posts/body-element/"
 ---
 
 # Chapter 3: The `<html>` Element

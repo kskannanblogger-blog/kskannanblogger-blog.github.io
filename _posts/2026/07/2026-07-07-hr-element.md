@@ -5,11 +5,12 @@ date: 2026-07-07 19:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, horizontal rule, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/hr-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;br&gt;` Element"
+    url: "/posts/br-element/"  
 ---
 
 # Chapter 5.6 — The `<hr>` Element
@@ -2445,3 +2446,5 @@ By the end of the next chapter, you'll understand one of the most overlooked—b
 **Status:** ✅ Complete
 
 The `<hr>` element has now been covered in exhaustive detail. From the next lesson onward, we'll continue building this A–Z HTML encyclopedia with the fascinating and often underused `<wbr>` element.
+
+---

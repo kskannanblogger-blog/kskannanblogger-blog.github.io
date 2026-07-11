@@ -5,11 +5,14 @@ date: 2026-07-07 4:00:00 +0530
 categories: [HTML, Web Development]
 tags: [html, line-break, html reference]
 toc: true
-comments: true
-mermaid: true
 image:
   path: /assets/posts/images/2026/07/br-element.jpg
   alt: "The complete HTML A-Z Reference"
+related_links:
+  - title: "The `&lt;hr&gt;` Element"
+    url: "/posts/hr-element/"
+  - title: "The `&lt;wbr&gt;` Element"
+    url: "/posts/wbr-element/"  
 ---
 
 # Chapter 5.5 — The `<br>` Element
@@ -2700,3 +2703,5 @@ You'll discover that `<hr>` is much more than "a horizontal line." It represents
 **Status:** ✅ Complete
 
 You have now mastered the `<br>` element in depth. In the next section, we'll begin a similarly comprehensive exploration of the **`<hr>` element**, continuing our goal of creating the most complete A–Z HTML reference for modern web development.
+
+---
