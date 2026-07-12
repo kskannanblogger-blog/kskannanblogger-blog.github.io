@@ -15,8 +15,9 @@ I am not an expert. I am a *witness*.
 
 ## What Is This Place?
 
-A corner of the internet with a custom domain (finally) where:
+A corner of the internet where technical complexity meets human context. Here:
 
+- **Technology articles** bridge the gap between "Can we?" and "Should we?", breaking down complex concepts with practical clarity.
 - **Travel stories** are actually about people, not passport stamps
 - **Political writing** avoids the word "unprecedented" and offers no cheap outrage
 - **Technology articles** ask "Should we?" before "Can we?"
@@ -27,6 +28,8 @@ A corner of the internet with a custom domain (finally) where:
 ## The Evergreen Promises
 
 Some topics do not expire. They just wait for someone serious to pick them up.
+
+🔹 **Technical Deep Dives** – Exploring IT concepts through the lens of architectural integrity and real-world application. No fluff, just the "how" and the "why."
 
 🔹 **Drug Free Society** – No moral panic. Just honest questions: Why do we numb? What are we running from? How do we build a life that needs no anesthesia?
 
@@ -50,6 +53,13 @@ Some topics do not expire. They just wait for someone serious to pick them up.
 When the writing is ready. Not when the calendar says so.
 
 Just bookmark the custom domain and visit when you are lonely for real thoughts. Either way, I will be here—drawing the map as I walk.
+
+## Get in Touch
+If you have questions about a technical concept, want to discuss an article, or just want to share your thoughts, I would love to hear from you.
+
+- 📧 **Email:** - <a href="mailto:kskannan.blogger@gmail.com" target="_blank" rel="noopener noreferrer">kskannan.blogger@gmail.com</a>
+- 🔗 **LinkedIn:** - <a href="https://www.linkedin.com/in/kannansolaimalai" target="_blank" rel="noopener noreferrer">linkedin.com/in/kannansolaimalai</a>
+- 🐙 **GitHub:** - <a href="https://github.com/kskannanblogger-blog" target="_blank" rel="noopener noreferrer">github.com/kskannanblogger-blog</a>
 
 ## One Last Thing
 
