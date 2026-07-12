@@ -4,9 +4,6 @@ date: 2026-06-24 18:00:00 +0530
 categories: [Health, Social Issues]
 tags: [drug-abuse, awareness]
 description: Choose freedom, clarity, and a future without limits - A comprehensive guide to drug abuse prevention and recovery.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/say-no-to-drugs.jpg
   alt: Say no to drugs - say yes to life
@@ -263,3 +260,5 @@ Every person has infinite worth. Drugs hijack dreams, but awareness, compassion,
 ---
 
 © Say Yes to Life Initiative — educational purposes only. If you or someone you know is struggling, please contact local health authorities or a certified addiction specialist. This content does not replace professional medical advice.
+
+---

@@ -1,12 +1,12 @@
 ---
 title: "Which G7 Leader Is Governing Best in 2026? What Japan Can Teach the World"
 date: 2026-06-21 16:45:00 +0530
+description: "Among the G7 nations, which leader is governing most effectively in 2026? A deep look at Japan's leadership, economic policies, technology investments, and lessons for the world."
 categories: [Politics, World Affairs]
 tags: [leadership, world politics]
 image:
   path: /assets/posts/images/2026/06/g7-leadership.jpg
   alt: "G7 Leaders"
-description: "Among the G7 nations, which leader is governing most effectively in 2026? A deep look at Japan's leadership, economic policies, technology investments, and lessons for the world."
 ---
 
 > *"A politician thinks of the next election. A statesman thinks of the next generation."*
@@ -309,3 +309,5 @@ And perhaps that is why Japan's quiet success deserves far more attention than i
 ---
 
 > **"The future does not belong to the nation with the loudest voice. It belongs to the nation with the clearest vision."**
+
+---

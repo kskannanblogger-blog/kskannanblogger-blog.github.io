@@ -2,14 +2,16 @@
 title: "AI is Eating the IT World: What Happens Next? (Full 2030 Outlook)"
 date: 2026-06-20 15:00:00 +0530
 categories: [Technology, Artificial Intelligence]
-tags: [it-careers, generative-ai, technology-trends]
+tags: [it careers, generative ai, technology trends]
 description: The boom of artificial intelligence and the future of IT careers - a complete 2030 outlook on how AI is transforming the IT industry.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/ai-eating-it-world.jpg
   alt: AI transforming the IT industry - 2030 outlook
+related_links:
+  - title: "The Global Mandate: Why We Must Eradicate Corruption"
+    url: /posts/global-mandate-against-corruption  
+  - title: "The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future"
+    url: /posts/oil-crisis  
 ---
 
 > Future insight • The boom of artificial intelligence and the future of IT careers
@@ -161,3 +163,5 @@ The IT field isn't dying — it's going through a **golden age of productivity**
 External links open new tabs. Information based on 2026 trends, WEF & Gartner reports.
 
 What do you think? Will AI kill IT jobs or make them better? Share your thoughts!
+
+---

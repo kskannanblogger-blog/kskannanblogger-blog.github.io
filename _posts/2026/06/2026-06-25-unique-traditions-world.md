@@ -4,9 +4,6 @@ date: 2026-06-25 18:00:00 +0530
 categories: [Culture, Anthropology]
 tags: [traditions, anthropology, world-cultures]
 description: An anthropological journey into human diversity — rituals that define us, celebrate life, and reveal our shared soul.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/unique-traditions-world.jpg
   alt: Unique traditions around the world - anthropological journey
@@ -142,3 +139,5 @@ Every tradition — joyful, bizarre, or solemn — is an evolving story. The nex
 **Anthropological Journey | Unique Traditions Around the World** — originally published for curious minds. Celebrate human diversity with respect and wonder.
 
 Written in the spirit of cross-cultural dialogue. All external links lead to reputable references like Wikipedia, Britannica, and scholarly sources.
+
+---

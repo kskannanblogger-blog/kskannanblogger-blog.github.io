@@ -4,9 +4,6 @@ date: 2026-06-23 18:00:00 +0530
 categories: [Social Justice, Social Issue]
 tags: [child-abuse, child-protection]
 description: Silence hides the pain — but speaking up saves lives. Let us learn, act, and protect the innocence of childhood.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/child-abuse-awareness.jpg
   alt: Child abuse awareness - every child deserves safety and love
@@ -235,3 +232,5 @@ Let today be the day you decide to become an active guardian. Share this article
 © Child Abuse Awareness Initiative — Empowering communities to protect children.
 
 *Always consult professional authorities and local laws for legal guidance.*
+
+---

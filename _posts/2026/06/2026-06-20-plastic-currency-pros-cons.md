@@ -2,11 +2,8 @@
 title: "Plastic Currency: Smart Future or Hidden Trap? (Pros & Cons You Must Know)"
 date: 2026-06-20 08:18:00 +0530
 categories: [Economy, Currency]
-tags: [plastic-currency, digital-payments]
+tags: [plastic currency, digital payments]
 description: Real-world insights on plastic currency - a complete guide exploring the advantages and disadvantages of polymer banknotes.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/plastic-currency.jpg
   alt: Plastic currency - polymer banknotes pros and cons
@@ -111,3 +108,5 @@ Like this post? Share it with friends who love smart money facts!
 Have you ever used a plastic banknote? Tell us in comments.
 
 *External links open in new tab. Information based on global central bank reports & public data as of 2025.*
+
+---

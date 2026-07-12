@@ -1,13 +1,10 @@
 ---
 title: India Inaugurates World’s First Nuclear-Powered Hydrogen Production Facility
 date: 2026-06-27 14:00:00 +0530
-categories: [Science, Technology]
-tags: [nuclear-energy, hydrogen-production, india, kalpakkam]     # TAG names should always be lowercase
-pin: false
-toc: true
-math: false
-mermaid: false
 description: India achieves a historic milestone with the world's first hydrogen production facility powered by nuclear process heat at Kalpakkam. A comprehensive analysis of the technology, significance, and future implications.
+categories: [Science, Technology]
+tags: [nuclear energy, hydrogen production, india, kalpakkam]     # TAG names should always be lowercase
+toc: true
 image:
   path: /assets/posts/images/2026/06/nuclear-powered-hydrogen.jpg
   alt: India Inaugurates World's First Nuclear-Powered Hydrogen Production Facility
@@ -322,3 +319,5 @@ As Dr. Ajit Kumar Mohanty stated:
 ---
 
 > *Disclaimer: This article is intended for informational purposes only. The information presented has been sourced from publicly available materials and news reports. While every effort has been made to ensure accuracy, readers are encouraged to verify facts with official sources.*
+
+---

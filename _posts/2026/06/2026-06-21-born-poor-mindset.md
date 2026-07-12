@@ -2,14 +2,11 @@
 title: "Born Poor is Not Your Fault — But Dying Poor is a Great Offence: The Mindset That Changes Everything"
 date: 2026-06-21 11:00:00 +0530
 categories: [Motivation, Personal Development]
-tags: [motivation, self-improvement]
+tags: [self improvement]
 description: A life-changing read for every dreamer, worker, and believer about breaking the cycle of poverty and building lasting wealth.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/born-poor-mindset.jpg
-  alt: Born poor is not your fault - mindset that changes everything
+  alt: Born poor is not your fault - mindset that changes everything  
 ---
 
 > A life-changing read for every dreamer, worker, and believer. Simple and Deep impact.

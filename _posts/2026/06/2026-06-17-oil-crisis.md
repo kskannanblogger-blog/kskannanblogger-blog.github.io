@@ -2,13 +2,16 @@
 title: "The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future"
 date: 2026-06-17 17:38:00 +0530
 categories: [Environment, Energy]
-tags: [oil-crisis, renewable-energy]
+tags: [oil crisis, renewable energy]
 description: A comprehensive breakdown of the global oil crisis, policy interventions, energy alternatives, and everyday actions to accelerate the transition.
-pin: false
-math: false
-mermaid: false
-image: /assets/posts/images/2026/06/world-oil-crisis.jpg
-alt: Worldwide Oil Crisis - Confronting Today's Challenges, Powering Tomorrow's Future
+image:
+  path: /assets/posts/images/2026/06/world-oil-crisis.jpg
+  alt: Worldwide Oil Crisis - Confronting Today's Challenges, Powering Tomorrow's Future
+related_links:
+  - title: "The Global Mandate: Why We Must Eradicate Corruption"
+    url: /posts/global-mandate-against-corruption  
+
+
 ---
 <style>
 blockquote.prompt-tip::before {
@@ -86,3 +89,5 @@ For over a century, crude oil has been the invisible engine of modern civilizati
 
 > Share this article. Start conversations. Demand better policies. Choose clean energy today.
 {: .prompt-warning}
+
+---

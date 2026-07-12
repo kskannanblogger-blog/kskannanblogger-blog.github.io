@@ -2,14 +2,16 @@
 title: "Gentle Reminder to the Honourable Prime Minister of India"
 date: 2026-06-19 18:55:00 +0530
 categories: [Governance, India]
-tags: [river-interlinking, agriculture, farmers]
+tags: [river interlinking, agriculture, farmers]
 description: A sincere appeal from the soil of India, the farmers of India, and the conscience of a billion citizens regarding the National River Interlinking Project.
-pin: false
-math: false
-mermaid: false
 image:
   path: /assets/posts/images/2026/06/river-interlinking-india.jpg
   alt: National River Interlinking Project - India's water future
+related_links:
+  - title: "The Global Mandate: Why We Must Eradicate Corruption"
+    url: /posts/global-mandate-against-corruption  
+  - title: "The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future"
+    url: /posts/oil-crisis  
 ---
 
 > A sincere appeal from the soil of India, the farmers of India, and the conscience of a billion citizens.
@@ -148,3 +150,5 @@ Make National River Interlinking your legacy. Make water security your *Tryst wi
 [Ministry of Jal Shakti (Official)](https://jalshakti-dowr.gov.in/){:target="_blank"} | [FAO India](https://www.fao.org/india/en/){:target="_blank"} | [Central Water Commission](https://cwc.gov.in/){:target="_blank"}
 
 *This is a public appeal for water unity & national prosperity. May our rivers flow as one nation.* 
+
+---

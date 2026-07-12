@@ -2,13 +2,14 @@
 title: "The Global Mandate: Why We Must Eradicate Corruption"
 date: 2026-06-16 20:00:00 +0530
 categories: [Governance, Social Justice]
-tags: [corruption, governance, anti-corruption]
+tags: [corruption, anti corruption]
 description: A comprehensive roadmap for building a corruption-free future through government action and public participation.
-pin: false
-math: false
-mermaid: false
-image: /assets/posts/images/2026/06/corruption-free-world.jpg
-alt: A corruption-free future - governments and the public unite to end corruption
+image:
+  path: /assets/posts/images/2026/06/corruption-free-world.jpg
+  alt: "A corruption-free future - governments and the public unite to end corruption"
+related_links:
+  - title: "The Worldwide Oil Crisis: Confronting Today's Challenges, Powering Tomorrow's Future"
+    url: /posts/oil-crisis  
 ---
 
 > Corruption is a silent pandemic that hinders progress, fuels inequality, and erodes the trust between citizens and their leaders. To build a more equitable world, we must confront this issue head-on. Here is a roadmap for a corruption-free future.
@@ -86,3 +87,5 @@ Change starts at the individual level. As members of the public, our collective 
 [^4]: Wikipedia. (n.d.). *Public Procurement*. Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Public_procurement){:target="_blank" rel="noopener noreferrer"}
 [^5]: Wikipedia. (n.d.). *United Nations Convention Against Corruption*. Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/United_Nations_Convention_Against_Corruption){:target="_blank" rel="noopener noreferrer"}
 [^6]: Transparency International. (n.d.). *About Transparency International*. Retrieved from [transparency.org](https://www.transparency.org/en/about){:target="_blank" rel="noopener noreferrer"}
+
+---

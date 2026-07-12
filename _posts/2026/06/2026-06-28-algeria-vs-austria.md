@@ -1,13 +1,10 @@
 ---
 title: "44 Years of Waiting, 96 Minutes of Mayhem: Algeria and Austria Serve Up a Kansas City Classic"
 date: 2026-06-28 18:00:00 +0530
+description: A live commentary piece on the dramatic 3-3 draw between Algeria and Austria, a match steeped in history and filled with last-gasp drama that sent both teams to the World Cup knockout stages.
 categories: [Sports, Football]
 tags: [world-cup-2026, football-match-report]     
-pin: false
 toc: true
-math: false
-mermaid: false
-description: A live commentary piece on the dramatic 3-3 draw between Algeria and Austria, a match steeped in history and filled with last-gasp drama that sent both teams to the World Cup knockout stages.
 image:
   path: /assets/posts/images/2026/06/algeria-vs-austria.jpg
   alt: "Algeria vs Austria: 96 Minutes of Mayhem"
@@ -106,3 +103,5 @@ Both Algeria and Austria qualify from Group J, but the story of this match will 
 ---
 
 > *Disclaimer: This article is a fictional commentary piece based on the actual match report. While the events described are factual, the commentary style is creative and intended for entertainment purposes.*
+
+---

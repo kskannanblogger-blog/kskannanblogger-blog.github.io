@@ -1,12 +1,12 @@
 ---
 title: "Pollution Free World: A Dream We Can Make Real"
 date: 2026-06-22 18:23:51 +0530
+description: "A comprehensive guide to understanding pollution problems and actionable solutions for a cleaner, greener planet."
 categories: [Environment, Social Issue]
 tags: [pollution, environment]
 image:
   path: /assets/posts/images/2026/06/pollution-free-world.jpg
   alt: "Pollution Free World"
-description: "A comprehensive guide to understanding pollution problems and actionable solutions for a cleaner, greener planet."
 ---
 
 > *"The environment is where we all meet; where we all have a mutual interest. It is the one thing all of us share."*
@@ -200,3 +200,5 @@ A **pollution-free world** is not a utopia. It's a **choice** we make every sing
   All external links open in new tabs. Sources: WHO, NASA, UNEP, Wikipedia — verified for accuracy.<br>
   Copy this article, share it, and be the change.
 </div>
+
+---
