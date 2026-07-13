@@ -12,4 +12,7 @@ For inquiries, comments, or suggestions, please contact us at:
 
 - 📧 **Email:** - <a href="mailto:kskannan.blogger@gmail.com" target="_blank" rel="noopener noreferrer">kskannan.blogger@gmail.com</a>
 - 🔗 **LinkedIn:** - <a href="https://www.linkedin.com/in/kannansolaimalai" target="_blank" rel="noopener noreferrer">linkedin.com/in/kannansolaimalai</a>
-- 🐙 **GitHub:** - <a href="https://github.com/kskannanblogger-blog" target="_blank" rel="noopener noreferrer">github.com/kskannanblogger-blog</a>
+- 🐦 **X:** - <a href="https://x.com/kskannan_win" target="_blank" rel="noopener noreferrer">x.com/kskannan_win</a>
+- 📘 **Facebook:** - <a href="https://www.facebook.com/ksannan.win" target="_blank" rel="noopener noreferrer">facebook.com/ksannan.win</a>
+- 🗃️ **GitHub:** - <a href="https://github.com/kskannanblogger-blog" target="_blank" rel="noopener noreferrer">github.com/kskannanblogger-blog</a>
+  
