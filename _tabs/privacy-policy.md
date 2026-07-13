@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy-policy
 icon: fas fa-shield-alt
-order: 5
+order: 6
 ---
 
 This Privacy Policy describes how Beyond Borders collects, uses, and protects information when you visit this website.
