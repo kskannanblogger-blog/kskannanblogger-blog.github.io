@@ -1,7 +1,7 @@
 ---
 title: "AI is Eating the IT World: What Happens Next? (Full 2030 Outlook)"
 date: 2026-06-20 15:00:00 +0530
-categories: [Technology, Artificial Intelligence]
+categories: [Artificial Intelligence, Technology]
 tags: [it careers, generative ai, technology trends]
 description: The boom of artificial intelligence and the future of IT careers - a complete 2030 outlook on how AI is transforming the IT industry.
 image:
