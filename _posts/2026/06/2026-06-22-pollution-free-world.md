@@ -3,7 +3,7 @@ title: "Pollution Free World: A Dream We Can Make Real"
 date: 2026-06-22 18:23:51 +0530
 description: "A comprehensive guide to understanding pollution problems and actionable solutions for a cleaner, greener planet."
 categories: [Environment, Social Issue]
-tags: [pollution, environment]
+tags: [pollution, environment, sustainability]
 image:
   path: /assets/posts/images/2026/06/pollution-free-world.jpg
   alt: "Pollution Free World"
