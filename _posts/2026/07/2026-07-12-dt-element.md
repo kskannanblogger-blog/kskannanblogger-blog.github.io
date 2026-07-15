@@ -9,7 +9,7 @@ image:
   path: /assets/posts/images/2026/07/dt-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.13 — The `&lt;dl&gt;` Element"
+  - title: "The `&lt;dl&gt;` Element"
     url: /posts/dl-element/
 ---
 

@@ -9,11 +9,11 @@ image:
   path: /assets/posts/images/2026/07/figure-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.15 — The `&lt;dd&gt;` Element"
+  - title: "The `&lt;dd&gt;` Element"
     url: /posts/dd-element/
-  - title: "Chapter 5.17 — The `&lt;dl&gt;` Element"
+  - title: "The `&lt;dl&gt;` Element"
     url: /posts/dl-element/
-  - title: "Chapter 5.18 — The `&lt;dt&gt;` Element"
+  - title: "The `&lt;dt&gt;` Element"
     url: /posts/dt-element/  
 ---
 

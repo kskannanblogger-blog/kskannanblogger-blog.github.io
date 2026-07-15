@@ -9,7 +9,7 @@ image:
   path: /assets/posts/images/2026/07/figcaption-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.16 — The `&lt;figure&gt;` Element"
+  - title: "The `&lt;figure&gt;` Element"
     url: /posts/figure-element/
 ---
 

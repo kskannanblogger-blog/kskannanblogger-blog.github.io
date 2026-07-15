@@ -9,13 +9,13 @@ image:
   path: /assets/posts/images/2026/07/dd-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.13 — The `&lt;dl&gt;` Element"
+  - title: "The `&lt;dl&gt;` Element"
     url: /posts/dl-element/
-  - title: "Chapter 5.14 — The `&lt;dt&gt;` Element"
+  - title: "The `&lt;dt&gt;` Element"
     url: /posts/dt-element/
-  - title: "Chapter 5.7 — The `&lt;p&gt;` Element"
+  - title: "The `&lt;p&gt;` Element"
     url: /posts/p-element/
-  - title: "Chapter 5.10 — The `&lt;blockquote&gt;` Element"
+  - title: "The `&lt;blockquote&gt;` Element"
     url: /posts/blockquote-element/  
 ---
 
