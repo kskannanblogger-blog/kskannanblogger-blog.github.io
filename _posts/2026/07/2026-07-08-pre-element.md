@@ -263,11 +263,11 @@ Each character aligns perfectly, making monospace fonts ideal for:
 
 | Feature               |    `<p>`     |  `<pre>`  |
 | --------------------- | :----------: | :-------: |
-| Collapses spaces      |      ✅       |     ❌     |
-| Preserves line breaks |      ❌       |     ✅     |
-| Preserves tabs        |      ❌       |     ✅     |
+| Collapses spaces      |     Yes      |    No     |
+| Preserves line breaks |      No      |    Yes    |
+| Preserves tabs        |      No      |    Yes    |
 | Default font          | Proportional | Monospace |
-| Suitable for code     |      ❌       |     ✅     |
+| Suitable for code     |      No      |    Yes    |
 
 This comparison highlights why `<pre>` is the preferred choice whenever formatting matters.
 
@@ -448,8 +448,8 @@ The `<pre>` element belongs to several HTML content categories.
 
 | Category         | Included |
 | ---------------- | :------: |
-| Flow Content     |    ✅     |
-| Palpable Content |    ✅     |
+| Flow Content     |   Yes    |
+| Palpable Content |   Yes    |
 
 Because it is **Flow Content**, it can appear almost anywhere block-level content is permitted.
 
@@ -1901,12 +1901,12 @@ The `<pre>` element is supported by every major browser.
 
 | Browser         | Support |
 | --------------- | :-----: |
-| Chrome          |    ✅    |
-| Firefox         |    ✅    |
-| Edge            |    ✅    |
-| Safari          |    ✅    |
-| Opera           |    ✅    |
-| Mobile Browsers |    ✅    |
+| Chrome          |   Yes   |
+| Firefox         |   Yes   |
+| Edge            |   Yes   |
+| Safari          |   Yes   |
+| Opera           |   Yes   |
+| Mobile Browsers |   Yes   |
 
 Because `<pre>` has existed since early HTML versions, compatibility issues are extremely rare.
 
@@ -2764,7 +2764,7 @@ The `<blockquote>` element is especially important for blogs, journalism, resear
 
 ## End of Section 5.8 — The `<pre>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The `<pre>` element is now fully documented as part of:
 

@@ -525,7 +525,7 @@ The `<dt>` element belongs to the following HTML content category.
 
 | Category | Included |
 | -------- | :------: |
-| None     |    ❌     |
+| None     |    No    |
 
 The `<dt>` element itself is not classified as Flow Content or Phrasing Content. Its meaning is determined entirely by its relationship with the surrounding `<dl>`.
 
@@ -1600,13 +1600,13 @@ The `<dt>` element has excellent browser support.
 
 | Browser         | Support |
 | --------------- | :-----: |
-| Chrome          |    ✅    |
-| Firefox         |    ✅    |
-| Safari          |    ✅    |
-| Edge            |    ✅    |
-| Opera           |    ✅    |
-| Android Browser |    ✅    |
-| iOS Safari      |    ✅    |
+| Chrome          |   Yes   |
+| Firefox         |   Yes   |
+| Safari          |   Yes   |
+| Edge            |   Yes   |
+| Opera           |   Yes   |
+| Android Browser |   Yes   |
+| iOS Safari      |   Yes   |
 
 It has been supported since the earliest versions of HTML.
 
@@ -2274,16 +2274,16 @@ Throughout this chapter, you learned:
 
 Completed elements:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
-* ✅ `<pre>`
-* ✅ `<blockquote>`
-* ✅ `<ol>`
-* ✅ `<ul>`
-* ✅ `<li>`
-* ✅ `<dl>`
-* ✅ `<dt>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
+* `<ol>`
+* `<ul>`
+* `<li>`
+* `<dl>`
+* `<dt>`
 
 Remaining in the Description List family:
 
@@ -2315,7 +2315,7 @@ Together, the `<dl>`, `<dt>`, and `<dd>` elements form one of HTML's most import
 
 ## End of Chapter 5.14 — The `<dt>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The HTML **`<dt>`** element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
 

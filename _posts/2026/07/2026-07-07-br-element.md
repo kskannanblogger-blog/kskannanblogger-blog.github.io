@@ -2700,7 +2700,7 @@ You'll discover that `<hr>` is much more than "a horizontal line." It represents
 
 ## End of Section 5.5 — The `<br>` Element
 
-**Status:** ✅ Complete
+**Status:** Complete
 
 You have now mastered the `<br>` element in depth. In the next section, we'll begin a similarly comprehensive exploration of the **`<hr>` element**, continuing our goal of creating the most complete A–Z HTML reference for modern web development.
 

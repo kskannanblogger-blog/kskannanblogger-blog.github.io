@@ -1725,13 +1725,13 @@ The `<wbr>` element is fully supported by all modern browsers.
 
 | Browser          | Supported |
 | ---------------- | :-------: |
-| Google Chrome    |     ✅     |
-| Mozilla Firefox  |     ✅     |
-| Microsoft Edge   |     ✅     |
-| Safari           |     ✅     |
-| Opera            |     ✅     |
-| Android Browser  |     ✅     |
-| Samsung Internet |     ✅     |
+| Google Chrome    |    Yes    |
+| Mozilla Firefox  |    Yes    |
+| Microsoft Edge   |    Yes    |
+| Safari           |    Yes    |
+| Opera            |    Yes    |
+| Android Browser  |    Yes    |
+| Samsung Internet |    Yes    |
 
 Support has been stable for many years, making `<wbr>` safe to use in production websites.
 
@@ -2049,12 +2049,12 @@ Although both influence line wrapping, they behave differently.
 
 | Feature                             | `<wbr>`    | `&shy;`       |
 | ----------------------------------- | ---------- | ------------- |
-| Inserts visible hyphen when wrapped | ❌          | ✅             |
-| Invisible if not wrapped            | ✅          | ✅             |
-| HTML element                        | ✅          | ❌             |
-| Unicode character                   | ❌          | ✅             |
+| Inserts visible hyphen when wrapped | No         | Yes           |
+| Invisible if not wrapped            | Yes        | Yes           |
+| HTML element                        | Yes        | No            |
+| Unicode character                   | No         | Yes           |
 | Affects copied text                 | Usually No | Sometimes Yes |
-| Semantic HTML                       | ✅          | No            |
+| Semantic HTML                       | Yes        | No            |
 
 ---
 
@@ -2252,13 +2252,13 @@ The `<wbr>` element enjoys excellent browser support.
 
 | Browser          | Support |
 | ---------------- | :-----: |
-| Chrome           |    ✅    |
-| Firefox          |    ✅    |
-| Edge             |    ✅    |
-| Safari           |    ✅    |
-| Opera            |    ✅    |
-| Android Browser  |    ✅    |
-| Samsung Internet |    ✅    |
+| Chrome           |   Yes   |
+| Firefox          |   Yes   |
+| Edge             |   Yes   |
+| Safari           |   Yes   |
+| Opera            |   Yes   |
+| Android Browser  |   Yes   |
+| Samsung Internet |   Yes   |
 
 Because support is universal across modern browsers, no polyfills or JavaScript fallbacks are required.
 
@@ -2361,9 +2361,9 @@ You now understand the `<wbr>` element at a level rarely covered in standard HTM
 
 The following HTML elements have now been completed in comprehensive detail:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
 
 Each element has been explored from:
 
@@ -2409,7 +2409,7 @@ The `<pre>` element is essential for documentation websites, programming tutoria
 
 ## End of Section 5.7 — The `<wbr>` Element
 
-**Status:** ✅ Complete
+**Status:** Complete
 
 The `<wbr>` element has now been documented comprehensively. Next, we'll continue Chapter 5 with the versatile and widely used **`<pre>` element**.
 

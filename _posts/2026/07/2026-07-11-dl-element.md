@@ -667,8 +667,8 @@ The `<dl>` element belongs to the following HTML content categories.
 
 | Category          | Included |
 | ----------------- | :------: |
-| Flow Content      |    ✅     |
-| Palpable Content* |    ✅     |
+| Flow Content      |   Yes    |
+| Palpable Content* |   Yes    |
 
 > **Note:** A `<dl>` is considered palpable content when it contains at least one name-description group.
 
@@ -1937,13 +1937,13 @@ The `<dl>` element is universally supported.
 
 | Browser          | Support |
 | ---------------- | :-----: |
-| Chrome           |    ✅    |
-| Firefox          |    ✅    |
-| Safari           |    ✅    |
-| Edge             |    ✅    |
-| Opera            |    ✅    |
-| Android Browsers |    ✅    |
-| iOS Browsers     |    ✅    |
+| Chrome           |   Yes   |
+| Firefox          |   Yes   |
+| Safari           |   Yes   |
+| Edge             |   Yes   |
+| Opera            |   Yes   |
+| Android Browsers |   Yes   |
+| iOS Browsers     |   Yes   |
 
 The element has existed since the earliest versions of HTML and remains fully supported today.
 
@@ -2617,15 +2617,15 @@ Throughout this chapter, you learned:
 
 Completed elements:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
-* ✅ `<pre>`
-* ✅ `<blockquote>`
-* ✅ `<ol>`
-* ✅ `<ul>`
-* ✅ `<li>`
-* ✅ `<dl>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
+* `<ol>`
+* `<ul>`
+* `<li>`
+* `<dl>`
 
 The remaining elements in the Description List family are:
 
@@ -2658,7 +2658,7 @@ Together with `<dd>`, the `<dt>` element completes the semantic structure of HTM
 
 ## End of Chapter 5.13 — The `<dl>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The HTML `<dl>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
 

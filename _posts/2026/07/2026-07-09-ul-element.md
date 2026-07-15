@@ -572,8 +572,8 @@ The `<ul>` element belongs to the following HTML content categories.
 
 | Category         | Included |
 | ---------------- | :------: |
-| Flow Content     |    ✅     |
-| Palpable Content |    ✅     |
+| Flow Content     |   Yes    |
+| Palpable Content |   Yes    |
 
 Because it is **Flow Content**, it may appear anywhere normal block-level content is allowed.
 
@@ -1867,13 +1867,13 @@ The `<ul>` element is supported by every modern browser.
 
 | Browser          | Support |
 | ---------------- | :-----: |
-| Chrome           |    ✅    |
-| Firefox          |    ✅    |
-| Safari           |    ✅    |
-| Edge             |    ✅    |
-| Opera            |    ✅    |
-| Android Browsers |    ✅    |
-| iOS Browsers     |    ✅    |
+| Chrome           |   Yes   |
+| Firefox          |   Yes   |
+| Safari           |   Yes   |
+| Edge             |   Yes   |
+| Opera            |   Yes   |
+| Android Browsers |   Yes   |
+| iOS Browsers     |   Yes   |
 
 No modern compatibility issues exist for the element itself.
 
@@ -2574,13 +2574,13 @@ Throughout this chapter, you learned:
 
 Completed elements:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
-* ✅ `<pre>`
-* ✅ `<blockquote>`
-* ✅ `<ol>`
-* ✅ `<ul>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
+* `<ol>`
+* `<ul>`
 
 Each element has been explored from:
 
@@ -2618,7 +2618,7 @@ Although `<li>` appears simple, it is one of the most important structural eleme
 
 ## End of Chapter 5.11 — The `<ul>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The `<ul>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
 

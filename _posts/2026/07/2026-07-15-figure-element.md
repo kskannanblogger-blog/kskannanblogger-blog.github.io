@@ -480,9 +480,9 @@ The `<figure>` element belongs to the following content categories:
 
 | Content Category  | Included |
 | ----------------- | :------: |
-| Flow Content      |    ✅     |
-| Sectioning Root   |    ✅     |
-| Palpable Content* |    ✅     |
+| Flow Content      |   Yes    |
+| Sectioning Root   |   Yes    |
+| Palpable Content* |   Yes    |
 
 *When the figure contains visible content.
 
@@ -1486,4 +1486,990 @@ You'll also learn how modern browsers expose `<figure>` through the DOM, how pub
 
 ---
 
+# 5.16.4 DOM APIs, Browser Compatibility, Accessibility APIs, SEO, Performance Optimization, Security Considerations, Professional Publishing Workflows, Browser Support History, and Interview Questions
 
+In the previous section, you learned how to style the `<figure>` element using CSS, build responsive layouts, optimize media presentation, and manipulate figures with JavaScript.
+
+This section explores how browsers expose `<figure>` through the Document Object Model (DOM), how assistive technologies interpret figures and captions, browser compatibility, performance considerations, security practices, and professional workflows used by technical documentation teams.
+
+Understanding these topics will help you use `<figure>` effectively in both small websites and enterprise-scale documentation systems.
+
+---
+
+# 5.16.4.1 DOM Representation
+
+Every `<figure>` element becomes an independent node in the Document Object Model.
+
+Example:
+
+```html
+<figure>
+
+<img src="ocean.jpg" alt="Ocean">
+
+<figcaption>
+
+Ocean at Sunset
+
+</figcaption>
+
+</figure>
+```
+
+DOM Tree:
+
+```text
+Document
+
+└── html
+
+    └── body
+
+        └── figure
+
+            ├── img
+
+            └── figcaption
+```
+
+Each child element can be accessed individually using standard DOM methods.
+
+---
+
+# DOM Interface
+
+The `<figure>` element is represented by the standard DOM interface:
+
+```text
+HTMLElement
+```
+
+Inheritance:
+
+```text
+EventTarget
+
+↓
+
+Node
+
+↓
+
+Element
+
+↓
+
+HTMLElement
+```
+
+Unlike certain form controls, there is no dedicated `HTMLFigureElement` interface.
+
+---
+
+# Selecting Figures
+
+Select the first figure:
+
+```javascript
+const figure =
+document.querySelector("figure");
+```
+
+Select every figure:
+
+```javascript
+const figures =
+document.querySelectorAll("figure");
+```
+
+Loop through all figures:
+
+```javascript
+figures.forEach(function(item){
+
+console.log(item);
+
+});
+```
+
+---
+
+# Accessing the Caption
+
+```javascript
+const caption =
+document.querySelector("figcaption");
+
+console.log(caption.textContent);
+```
+
+Output:
+
+```text
+Ocean at Sunset
+```
+
+---
+
+# Accessing the Image
+
+```javascript
+const image =
+document.querySelector("figure img");
+
+console.log(image.src);
+```
+
+This allows developers to modify image sources dynamically.
+
+---
+
+# Updating Captions
+
+```javascript
+const caption =
+document.querySelector("figcaption");
+
+caption.textContent =
+"Updated Figure Caption";
+```
+
+Dynamic captions are useful in:
+
+* Image galleries
+* Dashboards
+* Scientific applications
+* Interactive tutorials
+
+---
+
+# Creating Figures Dynamically
+
+```javascript
+const figure =
+document.createElement("figure");
+
+const image =
+document.createElement("img");
+
+image.src="earth.jpg";
+
+image.alt="Earth";
+
+const caption =
+document.createElement("figcaption");
+
+caption.textContent=
+"Planet Earth";
+
+figure.append(image);
+
+figure.append(caption);
+
+document.body.append(figure);
+```
+
+This approach is widely used when content is retrieved from APIs or databases.
+
+---
+
+# Browser Compatibility
+
+The `<figure>` element has excellent support across modern browsers.
+
+| Browser         | Support |
+| --------------- | :-----: |
+| Chrome          |   Yes   |
+| Firefox         |   Yes   |
+| Safari          |   Yes   |
+| Edge            |   Yes   |
+| Opera           |   Yes   |
+| Android Browser |   Yes   |
+| iOS Safari      |   Yes   |
+
+It has been supported by all major browsers for many years and is considered production-ready.
+
+---
+
+# Browser Support History
+
+The `<figure>` element was introduced as part of HTML5.
+
+Its adoption encouraged developers to replace generic `<div>` wrappers with semantic markup.
+
+Today it is considered a standard component of modern HTML development.
+
+---
+
+# Accessibility APIs
+
+Assistive technologies recognize the relationship between:
+
+* `<figure>`
+* `<figcaption>`
+
+When both are present, screen readers can expose the caption as descriptive information associated with the figure.
+
+This improves navigation for users who rely on assistive technologies.
+
+---
+
+# Accessibility Note
+
+Always remember:
+
+* The `alt` attribute describes an image.
+* `<figcaption>` provides additional context.
+* These serve different purposes.
+* Neither should automatically duplicate the other.
+
+For complex diagrams, include a detailed explanation within the article body.
+
+---
+
+# SEO Note
+
+Well-structured figures improve content quality.
+
+Search engines evaluate:
+
+* Image filename
+* Alt text
+* Caption
+* Nearby headings
+* Nearby paragraphs
+* Structured page content
+
+Together, these help establish stronger topical relevance.
+
+---
+
+# Performance Optimization
+
+Large image collections can affect page performance.
+
+Recommended practices include:
+
+* Lazy loading.
+* Responsive images.
+* Image compression.
+* Modern image formats.
+* Appropriate dimensions.
+* CDN delivery where applicable.
+
+These optimizations reduce loading time and improve user experience.
+
+---
+
+# Security Considerations
+
+The `<figure>` element itself introduces no security concerns.
+
+Problems occur only when dynamically inserting untrusted HTML.
+
+Unsafe:
+
+```javascript
+figure.innerHTML =
+userInput;
+```
+
+Safer:
+
+```javascript
+caption.textContent =
+userInput;
+```
+
+Always sanitize user-generated HTML before rendering it.
+
+---
+
+# Professional Publishing Workflow
+
+Technical documentation teams commonly follow this workflow:
+
+1. Create media assets.
+2. Optimize image size.
+3. Add descriptive filenames.
+4. Write meaningful alt text.
+5. Write concise captions.
+6. Insert figures into documentation.
+7. Validate accessibility.
+8. Test responsive layouts.
+9. Publish.
+
+This process ensures consistency across hundreds or even thousands of figures.
+
+---
+
+# Best Practices
+
+Professional developers generally follow these guidelines:
+
+* One logical subject per figure.
+* One caption per figure.
+* Keep captions concise.
+* Use semantic HTML instead of generic containers.
+* Optimize every image.
+* Maintain consistent spacing.
+* Test accessibility.
+* Verify responsiveness.
+
+---
+
+# Common Mistakes
+
+## Mistake 1
+
+Using `<figure>` as a generic layout container.
+
+Use it only for self-contained content.
+
+---
+
+## Mistake 2
+
+Adding captions that merely repeat the image filename.
+
+Captions should explain the figure, not describe the file.
+
+---
+
+## Mistake 3
+
+Ignoring responsive behavior.
+
+Large fixed-width figures often create poor mobile experiences.
+
+---
+
+## Mistake 4
+
+Uploading oversized images.
+
+Always optimize media before publication.
+
+---
+
+# Interview Questions
+
+### Question 1
+
+What is the primary purpose of the `<figure>` element?
+
+**Answer:**
+
+To represent self-contained content that may optionally include a caption.
+
+---
+
+### Question 2
+
+Can a `<figure>` contain elements other than images?
+
+**Answer:**
+
+Yes. It can contain videos, tables, code listings, diagrams, SVG graphics, mathematical formulas, and many other types of flow content.
+
+---
+
+### Question 3
+
+Which element provides the caption for a figure?
+
+**Answer:**
+
+`<figcaption>`
+
+---
+
+### Question 4
+
+Which DOM interface represents `<figure>`?
+
+**Answer:**
+
+`HTMLElement`
+
+---
+
+### Question 5
+
+Can a figure exist without a caption?
+
+**Answer:**
+
+Yes. A `<figcaption>` is optional.
+
+---
+
+# Practical Exercise
+
+Create a file named:
+
+```text
+figure-dom-practice.html
+```
+
+Build a page containing:
+
+* Five figures.
+* Different types of content.
+* Responsive images.
+* Captions.
+* JavaScript that updates one caption dynamically.
+* Lazy loading enabled for images.
+
+Inspect the page using browser Developer Tools and observe the DOM hierarchy.
+
+---
+
+# Did You Know?
+
+Many publishing systems automatically generate lists of figures for books and technical manuals. Although HTML does not generate these lists automatically, semantic `<figure>` elements make such automation possible through JavaScript, static site generators, or publishing software.
+
+---
+
+# Summary
+
+In this section, you learned:
+
+* DOM representation.
+* DOM APIs.
+* Browser compatibility.
+* Accessibility APIs.
+* SEO considerations.
+* Performance optimization.
+* Security practices.
+* Professional publishing workflows.
+* Browser support history.
+* Best practices.
+* Interview questions.
+
+---
+
+## Coming Up Next — Section 5.16.5
+
+The final section of the `<figure>` chapter will cover advanced real-world implementations, Markdown integration, Jekyll best practices, complete technical reference tables, production checklists, comparison with similar elements, chapter summary, and preparation for the next chapter: **The `<figcaption>` Element**.
+
+---
+
+# 5.16.5 Advanced Examples, Markdown Integration, Jekyll Implementation, Security, Complete Technical Reference, Publishing Checklist, Comparison with Similar Elements, and Chapter Summary
+
+You have now reached the final section of the `<figure>` chapter.
+
+Throughout this chapter, you have learned that the `<figure>` element is much more than a container for images. It is a semantic HTML element designed to group self-contained content together with an optional caption, making that content understandable even when separated from the surrounding article.
+
+Modern websites, online documentation, scientific publications, blogs, educational platforms, and enterprise applications all make extensive use of `<figure>` because it improves document structure, accessibility, and maintainability.
+
+This final section focuses on real-world implementation, Jekyll integration, publishing recommendations, and professional development practices.
+
+---
+
+# 5.16.5.1 Real-World Example — Technical Documentation
+
+Developer documentation frequently contains screenshots accompanied by explanations.
+
+Example:
+
+```html
+<figure>
+
+<img
+src="developer-tools.png"
+alt="Browser Developer Tools">
+
+<figcaption>
+
+Figure 1. Browser Developer Tools showing the HTML DOM.
+
+</figcaption>
+
+</figure>
+```
+
+Readers can immediately understand the purpose of the image without reading the surrounding paragraphs.
+
+---
+
+# Real-World Example — Scientific Publication
+
+Research papers often include charts and graphs.
+
+```html
+<figure>
+
+<img
+src="population-growth.svg"
+alt="Population growth chart">
+
+<figcaption>
+
+Figure 4. Global population growth between 1950 and 2025.
+
+</figcaption>
+
+</figure>
+```
+
+The caption provides context while the surrounding article discusses the analysis.
+
+---
+
+# Real-World Example — Programming Tutorial
+
+Figures are useful even when displaying source code.
+
+```html
+<figure>
+
+<pre><code>
+
+fetch("/api/users")
+.then(response => response.json());
+
+</code></pre>
+
+<figcaption>
+
+Listing 2. Fetching data from an API.
+
+</figcaption>
+
+</figure>
+```
+
+This creates a clear association between the code sample and its explanation.
+
+---
+
+# Markdown Integration
+
+Standard Markdown has no dedicated syntax for the `<figure>` element.
+
+Fortunately, Jekyll allows raw HTML.
+
+Example:
+
+```markdown
+## Responsive Images
+
+<figure>
+
+<img
+src="/assets/img/html/dom-tree.webp"
+alt="DOM Tree">
+
+<figcaption>
+
+Simplified DOM Tree
+
+</figcaption>
+
+</figure>
+```
+
+The HTML is preserved during site generation.
+
+---
+
+# Jekyll Implementation
+
+For your **Beyond Borders View** HTML Reference, a reusable figure style is recommended.
+
+Example CSS:
+
+```css
+.post-content figure{
+
+margin:2rem auto;
+
+text-align:center;
+
+}
+
+.post-content figure img{
+
+max-width:100%;
+
+height:auto;
+
+border-radius:8px;
+
+}
+
+.post-content figcaption{
+
+margin-top:.75rem;
+
+font-size:.9rem;
+
+font-style:italic;
+
+color:#6b7280;
+
+}
+```
+
+Applying a consistent style across every chapter gives the reference a professional appearance and improves readability.
+
+---
+
+# Using Figures with Responsive Images
+
+Example:
+
+```html
+<figure>
+
+<picture>
+
+<source
+srcset="diagram.webp"
+type="image/webp">
+
+<img
+src="diagram.jpg"
+alt="Application Architecture">
+
+</picture>
+
+<figcaption>
+
+Application Architecture Diagram
+
+</figcaption>
+
+</figure>
+```
+
+Combining `<picture>` and `<figure>` allows browsers to select the most appropriate image format while preserving semantic meaning.
+
+---
+
+# Security Considerations
+
+The `<figure>` element itself does not introduce security vulnerabilities.
+
+However, caution is required when displaying user-generated content.
+
+Unsafe:
+
+```javascript
+figure.innerHTML =
+externalContent;
+```
+
+Safer:
+
+```javascript
+caption.textContent =
+externalContent;
+```
+
+When HTML from external sources must be displayed, always sanitize it before insertion.
+
+---
+
+# Best Practice
+
+When working with figures in large projects:
+
+* Use descriptive image filenames.
+* Provide concise but informative captions.
+* Compress media before uploading.
+* Use modern image formats when possible.
+* Maintain consistent spacing.
+* Keep captions close to the associated content.
+* Test the layout on multiple screen sizes.
+* Validate accessibility before publishing.
+
+Following these practices improves maintainability and user experience.
+
+---
+
+# Accessibility Note
+
+For complex diagrams:
+
+* Provide meaningful `alt` text.
+* Use `<figcaption>` for a concise explanation.
+* Include a detailed explanation in the surrounding article if the figure contains essential information.
+
+Users should never be required to interpret a complex image without textual support.
+
+---
+
+# SEO Note
+
+Figures contribute more value when they are part of a well-structured article.
+
+To maximize SEO benefits:
+
+* Use descriptive filenames.
+* Write meaningful alternative text.
+* Add useful captions.
+* Place figures near related content.
+* Compress images to improve loading speed.
+* Avoid duplicate captions throughout the website.
+
+Semantic organization helps search engines understand relationships between text and media.
+
+---
+
+# Comparison with Similar Elements
+
+| Element        | Purpose                                                 |
+| -------------- | ------------------------------------------------------- |
+| `<figure>`     | Groups self-contained content with an optional caption. |
+| `<div>`        | Generic container without semantic meaning.             |
+| `<picture>`    | Supplies multiple image sources for responsive images.  |
+| `<img>`        | Embeds an image.                                        |
+| `<figcaption>` | Provides the caption for a figure.                      |
+
+Choosing the correct element improves semantics and document structure.
+
+---
+
+# Common Mistakes
+
+## Mistake 1
+
+Using `<div>` instead of `<figure>` for meaningful media.
+
+Whenever the content is self-contained and benefits from a caption, prefer `<figure>`.
+
+---
+
+## Mistake 2
+
+Using decorative icons inside `<figure>`.
+
+Decorative graphics usually do not require a semantic figure.
+
+---
+
+## Mistake 3
+
+Adding multiple captions.
+
+Only one `<figcaption>` is allowed within a `<figure>` element.
+
+---
+
+## Mistake 4
+
+Using captions as replacements for alternative text.
+
+Remember:
+
+* `alt` describes the image.
+* `<figcaption>` provides additional context.
+
+---
+
+# Professional Publishing Checklist
+
+Before publishing a page containing figures, verify that:
+
+* Every important image has meaningful alternative text.
+* Captions are concise and informative.
+* Images are compressed.
+* Responsive behavior has been tested.
+* Lazy loading is enabled where appropriate.
+* Figures are positioned near relevant content.
+* Internal links point to related HTML Reference chapters.
+* Accessibility has been reviewed.
+
+---
+
+# Complete Technical Reference
+
+| Property          | Value                                            |
+| ----------------- | ------------------------------------------------ |
+| Element           | `<figure>`                                       |
+| Purpose           | Represents self-contained content                |
+| Content Category  | Flow Content, Sectioning Root, Palpable Content* |
+| Permitted Parent  | Any element accepting flow content               |
+| Permitted Content | Flow Content (optional `<figcaption>`)           |
+| Closing Tag       | Required                                         |
+| DOM Interface     | `HTMLElement`                                    |
+| HTML Version      | HTML5, HTML Living Standard                      |
+| Browser Support   | Universal                                        |
+
+*When the figure contains visible content.
+
+---
+
+# Interview Questions
+
+### Question 1
+
+What is the purpose of the `<figure>` element?
+
+**Answer:**
+
+To group self-contained content that may optionally include a caption.
+
+---
+
+### Question 2
+
+Can a figure contain elements other than images?
+
+**Answer:**
+
+Yes. It can contain tables, videos, code listings, diagrams, SVG graphics, mathematical formulas, and other types of flow content.
+
+---
+
+### Question 3
+
+Where may the `<figcaption>` element appear?
+
+**Answer:**
+
+As the first or last child of the `<figure>` element.
+
+---
+
+### Question 4
+
+Can a `<figure>` exist without a caption?
+
+**Answer:**
+
+Yes. The `<figcaption>` element is optional.
+
+---
+
+### Question 5
+
+Why is `<figure>` preferred over `<div>`?
+
+**Answer:**
+
+Because `<figure>` provides semantic meaning, improving accessibility, maintainability, and machine readability.
+
+---
+
+# Practical Exercise
+
+Create a file named:
+
+```text
+complete-figure-demo.html
+```
+
+Build a page containing:
+
+* An image figure.
+* A code listing figure.
+* A table figure.
+* A video figure.
+* Responsive styling.
+* Hover effects.
+* Lazy-loaded images.
+* Accessible captions.
+
+Validate the page using browser Developer Tools and an HTML validator.
+
+---
+
+# Did You Know?
+
+Many digital publishing systems automatically generate a **List of Figures** for books and technical manuals. Because HTML uses semantic `<figure>` elements, static site generators and documentation tools can identify figures programmatically without relying on custom classes.
+
+---
+
+# Chapter Summary
+
+During this chapter, you learned:
+
+## Fundamentals
+
+* Purpose of `<figure>`
+* Self-contained content
+* Relationship with `<figcaption>`
+
+## Browser Internals
+
+* HTML Living Standard definition
+* Content model
+* Browser parsing
+* DOM representation
+* `HTMLElement` interface
+
+## Practical Development
+
+* CSS styling
+* Responsive layouts
+* JavaScript manipulation
+* Performance optimization
+* Accessibility
+* SEO
+
+## Professional Publishing
+
+* Markdown integration
+* Jekyll implementation
+* Security considerations
+* Publishing workflow
+* Best practices
+* Technical reference
+
+---
+
+# Chapter 5 Progress Update
+
+Completed elements:
+
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
+* `<ol>`
+* `<ul>`
+* `<li>`
+* `<dl>`
+* `<dt>`
+* `<dd>`
+* `<figure>`
+
+---
+
+# Coming Up Next — Chapter 5.17 — The `<figcaption>` Element
+
+The next chapter explores the companion element to `<figure>`:
+
+```html
+<figcaption>
+```
+
+You'll learn:
+
+* HTML Living Standard definition
+* Caption placement rules
+* Browser behavior
+* DOM APIs
+* Accessibility
+* SEO
+* Styling techniques
+* JavaScript manipulation
+* Jekyll integration
+* Professional publishing workflows
+* Complete technical reference
+
+Understanding `<figcaption>` completes one of the most important semantic media structures in modern HTML.
+
+---
+
+## End of Chapter 5.16 — The `<figure>` Element
+
+**Status:** Complete
+
+The HTML `<figure>` element has now been fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
+
+---

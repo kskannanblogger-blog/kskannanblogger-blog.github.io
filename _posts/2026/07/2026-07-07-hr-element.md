@@ -1184,7 +1184,7 @@ text-align:center;
 
 hr::after{
 
-content:"❖";
+content:"";
 
 font-size:28px;
 
@@ -2133,13 +2133,13 @@ Modern browsers provide complete support.
 
 | Browser          | Supported |
 | ---------------- | :-------: |
-| Google Chrome    |     ✅     |
-| Mozilla Firefox  |     ✅     |
-| Microsoft Edge   |     ✅     |
-| Safari           |     ✅     |
-| Opera            |     ✅     |
-| Android Browser  |     ✅     |
-| Samsung Internet |     ✅     |
+| Google Chrome    |    Yes    |
+| Mozilla Firefox  |    Yes    |
+| Microsoft Edge   |    Yes    |
+| Safari           |    Yes    |
+| Opera            |    Yes    |
+| Android Browser  |    Yes    |
+| Samsung Internet |    Yes    |
 
 The semantic behavior of `<hr>` is consistent across all modern browsers.
 
@@ -2401,8 +2401,8 @@ You now understand the `<hr>` element at a level that goes far beyond typical HT
 
 At this point, we have completed comprehensive coverage of:
 
-* ✅ `<br>`
-* ✅ `<hr>`
+* `<br>`
+* `<hr>`
 
 These two seemingly simple elements have introduced several foundational concepts that will be reused throughout the rest of Chapter 5, including:
 
@@ -2443,7 +2443,7 @@ By the end of the next chapter, you'll understand one of the most overlooked—b
 
 ## End of Section 5.6 — The `<hr>` Element
 
-**Status:** ✅ Complete
+**Status:** Complete
 
 The `<hr>` element has now been covered in exhaustive detail. From the next lesson onward, we'll continue building this A–Z HTML encyclopedia with the fascinating and often underused `<wbr>` element.
 

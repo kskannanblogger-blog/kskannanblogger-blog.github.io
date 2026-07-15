@@ -480,8 +480,8 @@ The `<ol>` element belongs to the following HTML content categories.
 
 | Category         | Included |
 | ---------------- | :------: |
-| Flow Content     |    ✅     |
-| Palpable Content |    ✅     |
+| Flow Content     |   Yes    |
+| Palpable Content |   Yes    |
 
 Because it is **Flow Content**, an ordered list may appear almost anywhere normal block-level content is allowed.
 
@@ -1950,12 +1950,12 @@ Supported by:
 
 | Browser         | Support |
 | --------------- | :-----: |
-| Chrome          |    ✅    |
-| Firefox         |    ✅    |
-| Safari          |    ✅    |
-| Edge            |    ✅    |
-| Opera           |    ✅    |
-| Mobile Browsers |    ✅    |
+| Chrome          |   Yes   |
+| Firefox         |   Yes   |
+| Safari          |   Yes   |
+| Edge            |   Yes   |
+| Opera           |   Yes   |
+| Mobile Browsers |   Yes   |
 
 The element has no meaningful compatibility concerns.
 
@@ -2890,7 +2890,7 @@ The `<ul>` element is one of the most frequently used HTML structures in navigat
 
 ## End of Chapter 5.10 — The `<ol>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The HTML `<ol>` element is now fully documented as part of:
 

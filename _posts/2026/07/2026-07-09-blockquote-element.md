@@ -455,9 +455,9 @@ The `<blockquote>` element belongs to several HTML content categories.
 
 | Category         | Included |
 | ---------------- | :------: |
-| Flow Content     |    ✅     |
-| Sectioning Root  |    ✅     |
-| Palpable Content |    ✅     |
+| Flow Content     |   Yes    |
+| Sectioning Root  |   Yes    |
+| Palpable Content |   Yes    |
 
 Let's briefly examine each category.
 
@@ -804,11 +804,11 @@ Although both represent quotations, they serve different purposes.
 
 | Feature                      | `<blockquote>` | `<q>` |
 | ---------------------------- | :------------: | :---: |
-| Block quotation              |       ✅        |   ❌   |
-| Inline quotation             |       ❌        |   ✅   |
-| Usually spans multiple lines |       ✅        |   ❌   |
-| May contain paragraphs       |       ✅        |   ❌   |
-| Uses `HTMLQuoteElement`      |       ✅        |   ✅   |
+| Block quotation              |      Yes       |  No   |
+| Inline quotation             |       No       |  Yes  |
+| Usually spans multiple lines |      Yes       |  No   |
+| May contain paragraphs       |      Yes       |  No   |
+| Uses `HTMLQuoteElement`      |      Yes       |  Yes  |
 
 A simple guideline:
 
@@ -1773,13 +1773,13 @@ Current browser support:
 
 | Browser          | Support |
 | ---------------- | :-----: |
-| Chrome           |    ✅    |
-| Firefox          |    ✅    |
-| Safari           |    ✅    |
-| Edge             |    ✅    |
-| Opera            |    ✅    |
-| Android Browsers |    ✅    |
-| iOS Browsers     |    ✅    |
+| Chrome           |   Yes   |
+| Firefox          |   Yes   |
+| Safari           |   Yes   |
+| Edge             |   Yes   |
+| Opera            |   Yes   |
+| Android Browsers |   Yes   |
+| iOS Browsers     |   Yes   |
 
 Compatibility issues are extremely rare.
 
@@ -2440,11 +2440,11 @@ Throughout this chapter, you learned:
 
 Completed elements:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
-* ✅ `<pre>`
-* ✅ `<blockquote>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
 
 Each element has been explored from:
 
@@ -2482,7 +2482,7 @@ The `<ol>` element is fundamental to tutorials, step-by-step guides, documentati
 
 ## End of Chapter 5.9 — The `<blockquote>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The `<blockquote>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
 

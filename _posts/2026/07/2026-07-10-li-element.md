@@ -508,7 +508,7 @@ The `<li>` element belongs to the following HTML content categories.
 
 | Category | Included |
 | -------- | :------: |
-| None     |    ❌     |
+| None     |    No    |
 
 Unlike many HTML elements, `<li>` does not belong to the general Flow Content or Phrasing Content categories by itself. Its use is defined by its relationship with list container elements.
 
@@ -1771,13 +1771,13 @@ The `<li>` element is supported by every major browser.
 
 | Browser          | Support |
 | ---------------- | :-----: |
-| Chrome           |    ✅    |
-| Firefox          |    ✅    |
-| Safari           |    ✅    |
-| Edge             |    ✅    |
-| Opera            |    ✅    |
-| Android Browsers |    ✅    |
-| iOS Browsers     |    ✅    |
+| Chrome           |   Yes   |
+| Firefox          |   Yes   |
+| Safari           |   Yes   |
+| Edge             |   Yes   |
+| Opera            |   Yes   |
+| Android Browsers |   Yes   |
+| iOS Browsers     |   Yes   |
 
 The element has been supported since the earliest versions of HTML.
 
@@ -2519,14 +2519,14 @@ Throughout this chapter, you learned:
 
 Completed elements:
 
-* ✅ `<br>`
-* ✅ `<hr>`
-* ✅ `<wbr>`
-* ✅ `<pre>`
-* ✅ `<blockquote>`
-* ✅ `<ol>`
-* ✅ `<ul>`
-* ✅ `<li>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
+* `<blockquote>`
+* `<ol>`
+* `<ul>`
+* `<li>`
 
 Each element has been explored from the perspectives of:
 
@@ -2564,7 +2564,7 @@ Description lists are ideal for glossaries, technical documentation, metadata, s
 
 ## End of Chapter 5.12 — The `<li>` Element
 
-**Status: ✅ Complete**
+**Status: Complete**
 
 The HTML `<li>` element is now fully documented as part of **The Complete HTML Reference: A–Z Guide for Modern Web Development**.
 
