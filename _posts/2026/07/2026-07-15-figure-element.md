@@ -10,11 +10,11 @@ image:
   alt: "The complete HTML A-Z Reference"
 related_links:
   - title: "Chapter 5.15 — The `&lt;dd&gt;` Element"
-    url: /post/dd-element/
+    url: /posts/dd-element/
   - title: "Chapter 5.17 — The `&lt;dl&gt;` Element"
-    url: /post/dl-element/
+    url: /posts/dl-element/
   - title: "Chapter 5.18 — The `&lt;dt&gt;` Element"
-    url: /post/dt-element/  
+    url: /posts/dt-element/  
 ---
 
 # Chapter 5.16 — The `<figure>` Element
