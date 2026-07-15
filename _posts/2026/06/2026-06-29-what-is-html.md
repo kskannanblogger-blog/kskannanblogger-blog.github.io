@@ -1667,15 +1667,15 @@ Clean HTML is easier to maintain, debug, and collaborate on.
 
 Avoid these common mistakes:
 
-❌ Forgetting to close elements.
+* Forgetting to close elements.
 
-❌ Incorrect nesting of elements.
+* Incorrect nesting of elements.
 
-❌ Using uppercase tags inconsistently.
+* Using uppercase tags inconsistently.
 
-❌ Forgetting quotation marks around attribute values.
+* Forgetting quotation marks around attribute values.
 
-❌ Adding closing tags to void elements like `<img>` or `<br>`.
+* Adding closing tags to void elements like `<img>` or `<br>`.
 
 Recognizing these mistakes early will save you hours of debugging later.
 
@@ -2582,5 +2582,3 @@ By the end of Chapter 2, you'll understand why this single line plays such an im
 ---
 
 > **End of Chapter 1**
-
-

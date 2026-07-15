@@ -2467,17 +2467,17 @@ However:
 
 Avoid these mistakes:
 
-❌ Using multiple `<br>` tags for spacing.
+* Using multiple `<br>` tags for spacing.
 
-❌ Replacing paragraphs with `<br>`.
+* Replacing paragraphs with `<br>`.
 
-❌ Writing `</br>`.
+* Writing `</br>`.
 
-❌ Forgetting that `<br>` is a void element.
+* Forgetting that `<br>` is a void element.
 
-❌ Assuming `<br>` creates a new paragraph.
+* Assuming `<br>` creates a new paragraph.
 
-❌ Depending on `<br>` for responsive layouts.
+* Depending on `<br>` for responsive layouts.
 
 ---
 

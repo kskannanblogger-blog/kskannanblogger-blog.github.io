@@ -824,7 +824,7 @@ The exact indentation depends on each browser's default stylesheet.
 
 ---
 
-# 💡 Pro Tip
+# Pro Tip
 
 Avoid relying on the browser's default indentation.
 
@@ -832,7 +832,7 @@ Professional websites almost always customize `<dd>` using CSS to create consist
 
 ---
 
-# ♿ Accessibility Note
+# Accessibility Note
 
 Screen readers announce `<dd>` as the **description** belonging to the active term.
 
@@ -854,7 +854,7 @@ This semantic pairing helps users understand the relationship without additional
 
 ---
 
-# 🔍 SEO Note
+# SEO Note
 
 Semantic description lists help search engines understand:
 
@@ -869,7 +869,7 @@ Although `<dd>` is not a ranking signal by itself, proper semantic structure con
 
 ---
 
-# ⚠️ Common Mistakes
+# Common Mistakes
 
 ## Mistake 1
 
@@ -1315,7 +1315,7 @@ This technique is useful for search highlighting or validation messages.
 
 ---
 
-# 💡 Pro Tip
+# Pro Tip
 
 When designing technical documentation, keep visual styling on the `<dd>` element consistent throughout the website.
 
@@ -1323,7 +1323,7 @@ A uniform appearance helps readers quickly distinguish between **terms** and **d
 
 ---
 
-# ♿ Accessibility Note
+# Accessibility Note
 
 If JavaScript is used to show or hide descriptions:
 
@@ -1336,7 +1336,7 @@ Semantic HTML should remain intact even when interactive behaviors are added.
 
 ---
 
-# 🔍 SEO Note
+# SEO Note
 
 Rich descriptions inside `<dd>` often contain valuable keywords, code samples, and explanatory content.
 
@@ -1370,7 +1370,7 @@ These interfaces rely on semantic HTML while applying modern CSS frameworks and 
 
 ---
 
-# ⚠️ Common Mistakes
+# Common Mistakes
 
 ## Mistake 1
 
@@ -1799,7 +1799,7 @@ This technique is useful in search interfaces and interactive documentation.
 
 ---
 
-# 💡 Pro Tip
+# Pro Tip
 
 When generating documentation automatically from databases or APIs, always create complete `<dt>`/`<dd>` pairs instead of separate unrelated elements.
 
@@ -1822,7 +1822,7 @@ Consistency improves both usability and maintainability.
 
 ---
 
-# ⚠️ Common Mistakes
+# Common Mistakes
 
 ## Mistake 1
 
@@ -2195,7 +2195,7 @@ Always sanitize HTML if rich content from external sources must be displayed.
 
 ---
 
-# 💡 Pro Tip
+# Pro Tip
 
 When building documentation websites, keep each `<dd>` focused on a single concept.
 
@@ -2203,7 +2203,7 @@ If a description becomes several pages long, create a dedicated article and summ
 
 ---
 
-# ♿ Accessibility Note
+# Accessibility Note
 
 Description lists are naturally supported by screen readers.
 
@@ -2219,7 +2219,7 @@ Semantic HTML reduces the need for additional ARIA attributes.
 
 ---
 
-# 🔍 SEO Note
+# SEO Note
 
 High-quality descriptions within `<dd>` can improve the topical depth of your pages.
 
@@ -2239,21 +2239,21 @@ Google increasingly rewards content that demonstrates expertise, clarity, and us
 
 Before publishing a page that uses description lists, verify the following:
 
-✅ Every `<dt>` has at least one `<dd>`.
+* Every `<dt>` has at least one `<dd>`.
 
-✅ Every description belongs to the correct term.
+* Every description belongs to the correct term.
 
-✅ Rich content is organized logically.
+* Rich content is organized logically.
 
-✅ CSS maintains a clear distinction between terms and descriptions.
+* CSS maintains a clear distinction between terms and descriptions.
 
-✅ The layout is responsive.
+* The layout is responsive.
 
-✅ Accessibility has been tested.
+* Accessibility has been tested.
 
-✅ Internal links point to related HTML Reference chapters.
+* Internal links point to related HTML Reference chapters.
 
-✅ Code examples have been validated in modern browsers.
+* Code examples have been validated in modern browsers.
 
 Following this checklist helps maintain a consistent quality standard across your HTML Reference.
 

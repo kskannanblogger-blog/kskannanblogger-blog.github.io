@@ -2721,10 +2721,10 @@ You learned:
 
 Completed elements:
 
-✅ `<br>`
-✅ `<hr>`
-✅ `<wbr>`
-✅ `<pre>`
+* `<br>`
+* `<hr>`
+* `<wbr>`
+* `<pre>`
 
 Each element has been studied from:
 

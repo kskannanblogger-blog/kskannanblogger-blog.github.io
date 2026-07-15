@@ -27,10 +27,10 @@ related_links:
 | -------------------- | ----------------------------- |
 | Element Name         | `<html>`                      |
 | Category             | Root Element                  |
-| Closing Tag Required | ✅ Yes                         |
+| Closing Tag Required | Yes                           |
 | Parent Element       | Document (root)               |
 | Permitted Children   | `<head>` followed by `<body>` |
-| Visible on Webpage   | ❌ No                          |
+| Visible on Webpage   | No                            |
 | Introduced           | Early HTML                    |
 | HTML5 Status         | Standard                      |
 
@@ -2795,4 +2795,3 @@ By the end of the next chapter, you'll understand why the `<head>` element is on
 ---
 
 > **End of Chapter 3**
-

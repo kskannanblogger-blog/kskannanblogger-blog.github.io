@@ -19,15 +19,15 @@ image:
 
 # At a Glance
 
-| Property                     | Value                                  |
-| ---------------------------- | -------------------------------------- |
-| Name                         | `<!DOCTYPE html>`                      |
-| Type                         | Document Type Declaration              |
-| HTML Element?                | ❌ No                                   |
-| Requires Closing Tag?        | ❌ No                                   |
-| Visible on Webpage?          | ❌ No                                   |
-| Required in HTML5?           | ✅ Yes (Recommended for standards mode) |
-| First Line of HTML Document? | ✅ Yes                                  |
+| Property                     | Value                                |
+| ---------------------------- | ------------------------------------ |
+| Name                         | `<!DOCTYPE html>`                    |
+| Type                         | Document Type Declaration            |
+| HTML Element?                | No                                   |
+| Requires Closing Tag?        | No                                   |
+| Visible on Webpage?          | No                                   |
+| Required in HTML5?           | Yes (Recommended for standards mode) |
+| First Line of HTML Document? | Yes                                  |
 
 ---
 
@@ -803,13 +803,13 @@ Most developers will rarely encounter Almost Standards Mode directly, but browse
 
 # Comparing the Three Modes
 
-| Feature                        | Standards Mode | Almost Standards Mode | Quirks Mode                      |
-| ------------------------------ | -------------- | --------------------- | -------------------------------- |
-| Modern HTML parsing            | ✅              | ✅                     | ⚠️ Limited compatibility behavior |
-| Modern CSS support             | ✅              | ✅                     | ❌ Legacy behavior may apply      |
-| Recommended for new websites   | ✅              | ❌                     | ❌                                |
-| Triggered by `<!DOCTYPE html>` | ✅              | ❌                     | ❌                                |
-| Intended for legacy websites   | ❌              | ⚠️ Occasionally        | ✅                                |
+| Feature                        | Standards Mode | Almost Standards Mode | Quirks Mode                    |
+| ------------------------------ | -------------- | --------------------- | ------------------------------ |
+| Modern HTML parsing            | Yes            | Yes                   | Limited compatibility behavior |
+| Modern CSS support             | Yes            | Yes                   | Legacy behavior may apply      |
+| Recommended for new websites   | Yes            | No                    | No                             |
+| Triggered by `<!DOCTYPE html>` | Yes            | No                    | No                             |
+| Intended for legacy websites   | No             | Occasionally          | Yes                            |
 
 ---
 
@@ -2263,6 +2263,3 @@ We'll also examine the `<html>` element from the perspective of the HTML Living 
 ---
 
 > **End of Chapter 2**
-
-
- 

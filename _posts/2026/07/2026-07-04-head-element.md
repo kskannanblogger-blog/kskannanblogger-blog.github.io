@@ -24,7 +24,7 @@ image:
 | Category         | Document Metadata |
 | Parent Element   | `<html>`          |
 | Typical Position | Before `<body>`   |
-| Visible on Page  | ❌ No              |
+| Visible on Page  | No                |
 | Closing Tag      | Required          |
 | HTML5 Status     | Standard          |
 
@@ -4642,11 +4642,11 @@ Does NOT wait for HTML parsing
 
 | Feature                      | `defer` | `async` |
 | ---------------------------- | ------- | ------- |
-| Blocks HTML parsing          | ❌ No    | ❌ No    |
-| Execution order guaranteed   | ✅ Yes   | ❌ No    |
-| Executes after DOM ready     | ✅ Yes   | ❌ No    |
-| Best for main scripts        | ✅ Yes   | ❌ No    |
-| Best for independent scripts | ❌ No    | ✅ Yes   |
+| Blocks HTML parsing          | No      | No      |
+| Execution order guaranteed   | Yes     | No      |
+| Executes after DOM ready     | Yes     | No      |
+| Best for main scripts        | Yes     | No      |
+| Best for independent scripts | No      | Yes     |
 
 ---
 
@@ -5154,7 +5154,7 @@ In this section, you learned:
 
 ---
 
-## 🎓 Chapter 4 Completion — The `<head>` Element Mastery
+## Chapter 4 Completion — The `<head>` Element Mastery
 
 You have now completed the full exploration of the `<head>` section, including:
 
@@ -5167,7 +5167,7 @@ You have now completed the full exploration of the `<head>` section, including:
 
 ---
 
-## 📘 Final Chapter 4 Summary
+## Final Chapter 4 Summary
 
 The `<head>` element is not visible to users, but it controls:
 
@@ -5184,7 +5184,7 @@ In short:
 
 ---
 
-## 🚀 Coming Up Next (Chapter 5 Preview)
+## Coming Up Next (Chapter 5 Preview)
 
 Next, we move into the **visible structure of HTML**, including:
 

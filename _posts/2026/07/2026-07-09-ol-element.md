@@ -2780,17 +2780,17 @@ Security practices include:
 
 Before using `<ol>`, ask:
 
-✅ Does the sequence matter?
+* Does the sequence matter?
 
-✅ Would changing the order change the meaning?
+* Would changing the order change the meaning?
 
-✅ Are list items written clearly?
+* Are list items written clearly?
 
-✅ Is the structure accessible?
+* Is the structure accessible?
 
-✅ Am I avoiding manually typed numbers?
+* Am I avoiding manually typed numbers?
 
-✅ Does the design work on mobile devices?
+* Does the design work on mobile devices?
 
 If the answer is yes, `<ol>` is likely the correct element.
 
@@ -2858,12 +2858,12 @@ You learned:
 
 Completed:
 
-✅ `<br>` Element
-✅ `<hr>` Element
-✅ `<wbr>` Element
-✅ `<pre>` Element
-✅ `<blockquote>` Element
-✅ `<ol>` Element
+* `<br>` Element
+* `<hr>` Element
+* `<wbr>` Element
+* `<pre>` Element
+* `<blockquote>` Element
+* `<ol>` Element
 
 ---
 
