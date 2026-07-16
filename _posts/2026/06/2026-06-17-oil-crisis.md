@@ -27,8 +27,8 @@ blockquote.prompt-tip::before {
 blockquote {
   padding-left: 1rem !important;
 }
-
 </style>
+
 # The Worldwide Oil Crisis
 
 For over a century, crude oil has been the invisible engine of modern civilization. Today, that engine is sputtering. From supply chain fractures and price shocks to accelerating climate damage and finite reserve depletion, the global oil crisis is no longer a theoretical forecast—it's a daily reality. Below is a comprehensive breakdown of the systemic problems, the policy interventions required, the viable energy alternatives, and the everyday actions that can collectively accelerate the transition.

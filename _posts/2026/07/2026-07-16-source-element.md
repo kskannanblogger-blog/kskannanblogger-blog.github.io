@@ -13,6 +13,27 @@ related_links:
     url: /posts/picture-element/
 ---
 
+<style>
+blockquote {
+  padding-left: 1rem !important;
+} 
+
+blockquote.prompt-tip::before,
+blockquote.prompt-info::before,
+blockquote.prompt-warning::before,
+blockquote.prompt-danger::before {
+    content: none !important;
+    display: none !important;    
+}
+
+blockquote.prompt-tip h1,
+blockquote.prompt-info h1,
+blockquote.prompt-warning h1,
+blockquote.prompt-danger h1 {
+  margin-top: 0 !important;
+}
+</style>
+
 # Chapter 5.19 — The `<source>` Element
 
 The HTML `<source>` element is one of the most important media elements introduced with HTML5. Unlike elements that display content directly, the `<source>` element supplies alternative media resources to its parent element.
@@ -195,11 +216,12 @@ The browser performs the selection automatically.
 
 ---
 
-# Pro Tip
-
-Always list the preferred format first, followed by compatible fallback formats.
-
-This minimizes unnecessary browser evaluation.
+> # Pro Tip
+>
+> Always list the preferred format first, followed by compatible fallback formats.
+>
+> This minimizes unnecessary browser evaluation.
+{: .prompt-tip}
 
 ---
 
@@ -217,17 +239,18 @@ For example:
 
 ---
 
-# SEO Note
-
-Search engines primarily evaluate the parent media element rather than the `<source>` element itself.
-
-Optimize:
-
-* filenames
-* alternative text
-* captions
-* nearby headings
-* surrounding content
+> # SEO Note
+> 
+> Search engines primarily evaluate the parent media element rather than the `<source>` element itself.
+> 
+> Optimize:
+> 
+> * filenames
+> * alternative text
+> * captions
+> * nearby headings
+> * surrounding content
+{: .prompt-warning}
 
 ---
 
@@ -257,22 +280,23 @@ Using unsupported image formats without alternatives.
 
 ---
 
-# Practical Exercise
-
-Create a file named:
-
-```text
-source-introduction.html
-```
-
-Build a page containing:
-
-* A responsive `<picture>`
-* A `<video>` with MP4 and WebM
-* An `<audio>` player with MP3 and Ogg
-* Appropriate fallback content
-
-Observe which resources your browser selects.
+> # Practical Exercise
+> 
+> Create a file named:
+> 
+> ```text
+> source-introduction.html
+> ```
+> 
+> Build a page containing:
+> 
+> * A responsive `<picture>`
+> * A `<video>` with MP4 and WebM
+> * An `<audio>` player with MP3 and Ogg
+> * Appropriate fallback content
+> 
+> Observe which resources your browser selects.
+{: .prompt-info}
 
 ---
 
@@ -663,22 +687,23 @@ The user never needs to choose manually.
 
 ---
 
-# Pro Tip
-
-Always place your preferred format first.
-
-Example:
-
-1. AVIF
-2. WebP
-3. JPEG
-
-or
-
-1. WebM
-2. MP4
-
-This allows browsers to stop searching sooner.
+> # Pro Tip
+>
+> Always place your preferred format first.
+>
+> Example:
+>
+> 1. AVIF
+> 2. WebP
+> 3. JPEG
+>
+> or
+>
+> 1. WebM
+> 2. MP4
+>
+> This allows browsers to stop searching sooner.
+{: .prompt-tip}
 
 ---
 
@@ -696,11 +721,12 @@ The `<source>` element itself has no accessibility role.
 
 ---
 
-# SEO Note
-
-Search engines index the parent media element rather than the `<source>` element.
-
-Optimizing filenames, captions, surrounding content, and alternative text provides greater SEO benefits than optimizing `<source>` itself.
+> # SEO Note
+>
+> Search engines index the parent media element rather than the `<source>` element.
+>
+> Optimizing filenames, captions, surrounding content, and alternative text provides greater SEO benefits than optimizing `<source>` itself.
+{: .prompt-warning}
 
 ---
 
@@ -730,23 +756,24 @@ Listing fallback formats before preferred formats.
 
 ---
 
-# Practical Exercise
-
-Create a file named:
-
-```text
-source-browser-selection.html
-```
-
-Build a page containing:
-
-* One `<picture>` element.
-* One `<video>` element.
-* One `<audio>` element.
-* Multiple `<source>` elements.
-* Appropriate MIME types.
-
-Use your browser's Developer Tools to observe which resources are selected.
+> # Practical Exercise
+> 
+> Create a file named:
+> 
+> ```text
+> source-browser-selection.html
+> ```
+> 
+> Build a page containing:
+> 
+> * One `<picture>` element.
+> * One `<video>` element.
+> * One `<audio>` element.
+> * Multiple `<source>` elements.
+> * Appropriate MIME types.
+> 
+> Use your browser's Developer Tools to observe which resources are selected.
+{: .prompt-info}
 
 ---
 
@@ -1137,11 +1164,12 @@ Students experience faster loading without choosing file types manually.
 
 ---
 
-# Pro Tip
-
-Always test responsive media using multiple browsers and device sizes.
-
-Developer Tools in Chrome, Firefox, and Edge allow you to simulate different screen widths and inspect downloaded resources.
+> # Pro Tip
+> 
+> Always test responsive media using multiple browsers and device sizes.
+>
+> Developer Tools in Chrome, Firefox, and Edge allow you to simulate different screen widths and inspect downloaded resources.
+{: .prompt-tip}
 
 ---
 
@@ -1164,18 +1192,18 @@ Accessibility should be considered from the beginning of development rather than
 
 ---
 
-# SEO Note
-
-Search engines primarily evaluate the parent media element.
-
-To improve visibility:
-
-* Use descriptive filenames.
-* Compress media.
-* Add captions where appropriate.
-* Place media close to relevant headings.
-* Avoid duplicate files with different names.
-
+> # SEO Note
+> 
+> Search engines primarily evaluate the parent media element.
+> 
+> To improve visibility:
+> 
+> * Use descriptive filenames.
+> * Compress media.
+> * Add captions where appropriate.
+> * Place media close to relevant headings.
+> * Avoid duplicate files with different names.
+{: .prompt-warning}
 ---
 
 # Common Mistakes
@@ -1227,23 +1255,24 @@ Professional developers typically follow this workflow:
 
 ---
 
-# Practical Exercise
-
-Create a file named:
-
-```text
-source-advanced-demo.html
-```
-
-Build a webpage containing:
-
-* A responsive `<picture>` element with AVIF, WebP, and JPEG.
-* A `<video>` element with WebM and MP4.
-* An `<audio>` element with Ogg and MP3.
-* Responsive CSS styling.
-* JavaScript that changes a video source and reloads it.
-
-Use browser Developer Tools to verify that the correct media resource is selected for each scenario.
+> # Practical Exercise
+> 
+> Create a file named:
+> 
+> ```text
+> source-advanced-demo.html
+> ```
+> 
+> Build a webpage containing:
+> 
+> * A responsive `<picture>` element with AVIF, WebP, and JPEG.
+> * A `<video>` element with WebM and MP4.
+> * An `<audio>` element with Ogg and MP3.
+> * Responsive CSS styling.
+> * JavaScript that changes a video source and reloads it.
+> 
+> Use browser Developer Tools to verify that the correct media resource is selected for each scenario.
+{: .prompt-info}
 
 ---
 
@@ -1486,31 +1515,32 @@ This workflow balances compatibility, quality, and performance.
 
 ---
 
-# Pro Tip
-
-Keep the number of alternative resources reasonable.
-
-For example, three image formats (AVIF, WebP, JPEG) are usually sufficient for most websites.
-
-Providing too many variations increases maintenance without delivering significant benefits.
+> # Pro Tip
+> 
+> Keep the number of alternative resources reasonable.
+>
+> For example, three image formats (AVIF, WebP, JPEG) are usually sufficient for most websites.
+> 
+> Providing too many variations increases maintenance without delivering significant benefits.
+{: .prompt-tip}
 
 ---
 
-# SEO Note
-
-The `<source>` element indirectly supports search engine optimization through improved performance.
-
-To maximize SEO:
-
-* Optimize media file sizes.
-* Use descriptive filenames.
-* Include meaningful captions.
-* Place media near relevant content.
-* Provide accurate `alt` text for images.
-* Avoid duplicate media files.
-
-Search engines reward fast, accessible, and well-structured pages.
-
+> # SEO Note
+> 
+> The `<source>` element indirectly supports search engine optimization through improved performance.
+> 
+> To maximize SEO:
+> 
+> * Optimize media file sizes.
+> * Use descriptive filenames.
+> * Include meaningful captions.
+> * Place media near relevant content.
+> * Provide accurate `alt` text for images.
+> * Avoid duplicate media files.
+> 
+> Search engines reward fast, accessible, and well-structured pages.
+{: .prompt-warning}
 ---
 
 # Common Mistakes
@@ -1545,76 +1575,78 @@ Loading media from unreliable third-party servers.
 
 ---
 
-# Interview Questions
-
-### Question 1
-
-What is the purpose of the `<source>` element?
-
-**Answer:**
-
-It provides alternative media resources for `<picture>`, `<video>`, and `<audio>` elements, allowing the browser to select the most appropriate resource.
+> # Interview Questions
+> 
+> ### Question 1
+> 
+> What is the purpose of the `<source>` element?
+> 
+> **Answer:**
+> 
+> It provides alternative media resources for `<picture>`, `<video>`, and `<audio>` elements, allowing the browser to select the most appropriate resource.
+> 
+> ---
+> 
+> ### Question 2
+> 
+> Can the `<source>` element exist independently?
+> 
+> **Answer:**
+> 
+> No. It must always be a child of `<picture>`, `<video>`, or `<audio>`.
+> 
+> ---
+> 
+> ### Question 3
+> 
+> Which DOM interface represents the `<source>` element?
+> 
+> **Answer:**
+> 
+> `HTMLSourceElement`
+> 
+> ---
+> 
+> ### Question 4
+> 
+> Which attribute is commonly used with `<picture>` instead of `src`?
+> 
+> **Answer:**
+> 
+> `srcset`
+> 
+> ---
+> 
+> ### Question 5
+> 
+> Why are MIME types important?
+> 
+> **Answer:**
+> 
+> They allow browsers to determine whether a media format is supported before downloading the resource.
+{: .prompt-danger}
 
 ---
 
-### Question 2
-
-Can the `<source>` element exist independently?
-
-**Answer:**
-
-No. It must always be a child of `<picture>`, `<video>`, or `<audio>`.
-
----
-
-### Question 3
-
-Which DOM interface represents the `<source>` element?
-
-**Answer:**
-
-`HTMLSourceElement`
-
----
-
-### Question 4
-
-Which attribute is commonly used with `<picture>` instead of `src`?
-
-**Answer:**
-
-`srcset`
-
----
-
-### Question 5
-
-Why are MIME types important?
-
-**Answer:**
-
-They allow browsers to determine whether a media format is supported before downloading the resource.
-
----
-
-# Practical Exercise
-
-Create a file named:
-
-```text
-source-production-demo.html
-```
-
-Build a webpage that includes:
-
-* A responsive image using `<picture>`.
-* A video with WebM and MP4 sources.
-* An audio player with Ogg and MP3 sources.
-* Responsive CSS.
-* Meaningful accessibility features.
-* Optimized media files.
-
-Test the page using Chrome, Firefox, Safari, and Edge to compare media selection behavior.
+> # Practical Exercise
+> 
+> Create a file named:
+> 
+> ```text
+> source-production-demo.html
+> ```
+> 
+> Build a webpage that includes:
+> 
+> * A responsive image using `<picture>`.
+> * A video with WebM and MP4 sources.
+> * An audio player with Ogg and MP3 sources.
+> * Responsive CSS.
+> * Meaningful accessibility features.
+> * Optimized media files.
+> 
+> Test the page using Chrome, Firefox, Safari, and Edge to compare media selection behavior.
+{: .prompt-info}
 
 ---
 
