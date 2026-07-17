@@ -1,0 +1,20 @@
+<style>
+blockquote {
+  padding-left: 1rem !important;
+}
+
+blockquote.prompt-tip::before,
+blockquote.prompt-info::before,
+blockquote.prompt-warning::before,
+blockquote.prompt-danger::before {
+    content: none !important;
+    display: none !important;
+}
+
+blockquote.prompt-tip h1,
+blockquote.prompt-info h1,
+blockquote.prompt-warning h1,
+blockquote.prompt-danger h1 {
+  margin-top: 0 !important;
+}
+</style>

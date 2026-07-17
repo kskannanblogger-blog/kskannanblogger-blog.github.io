@@ -13,27 +13,6 @@ related_links:
     url: /posts/picture-element/
 ---
 
-<style>
-blockquote {
-  padding-left: 1rem !important;
-} 
-
-blockquote.prompt-tip::before,
-blockquote.prompt-info::before,
-blockquote.prompt-warning::before,
-blockquote.prompt-danger::before {
-    content: none !important;
-    display: none !important;    
-}
-
-blockquote.prompt-tip h1,
-blockquote.prompt-info h1,
-blockquote.prompt-warning h1,
-blockquote.prompt-danger h1 {
-  margin-top: 0 !important;
-}
-</style>
-
 # Chapter 5.19 — The `<source>` Element
 
 The HTML `<source>` element is one of the most important media elements introduced with HTML5. Unlike elements that display content directly, the `<source>` element supplies alternative media resources to its parent element.
