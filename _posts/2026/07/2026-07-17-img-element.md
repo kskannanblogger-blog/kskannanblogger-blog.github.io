@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5.20 — The `&lt;img&gt;` Element"
 description: Complete HTML reference guide for the `&lt;img&gt;` element including attributes, responsive images, accessibility, SEO, performance optimization, browser behavior, and professional implementation."
-date: 2026-07-16 18:00:00 +0530
+date: 2026-07-17 18:00:00 +0530
 categories: [HTML, Web Development, HTML Elements]
 tags: [html, img, responsive images]
 toc: true
