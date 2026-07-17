@@ -9,9 +9,9 @@ image:
   path: /assets/posts/images/2026/07/img-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.18 — The `&lt;picture&gt;` Element"
+  - title: "The `&lt;picture&gt;` Element"
     url: /posts/picture-element/
-  - title: "Chapter 5.19 — The `&lt;source&gt;` Element"
+  - title: "The `&lt;source&gt;` Element"
     url: /posts/source-element/  
 ---
 

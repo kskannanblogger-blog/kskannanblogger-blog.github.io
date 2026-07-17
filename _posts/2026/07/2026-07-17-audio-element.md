@@ -9,9 +9,9 @@ image:
   path: /assets/posts/images/2026/07/audio-element.jpg
   alt: "The complete HTML A-Z Reference"
 related_links:
-  - title: "Chapter 5.19 — The `&lt;source&gt;` Element"
+  - title: "The `&lt;source&gt;` Element"
     url: /posts/source-element/
-  - title: "Chapter 5.20 — The `&lt;img&gt;` Element"
+  - title: "The `&lt;img&gt;` Element"
     url: /posts/img-element/  
 ---
 
