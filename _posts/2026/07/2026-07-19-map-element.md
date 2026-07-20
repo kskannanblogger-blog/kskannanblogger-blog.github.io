@@ -498,7 +498,7 @@ Example:
 <area
     shape="rect"
     coords="40,60,220,180"
-    href="lesson.html"
+    href="https://example.com/lesson.html"
     alt="Lesson">
 ```
 
@@ -776,7 +776,7 @@ Example:
 
 ```html
 <area
-    href="lesson.html"
+    href="https://example.com/lesson.html"
     referrerpolicy="no-referrer"
     shape="rect"
     coords="30,40,180,160"

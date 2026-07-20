@@ -443,7 +443,7 @@ Example:
 <area
     shape="rect"
     coords="40,60,260,180"
-    href="lesson.html"
+    href="https://example.com/lesson.html"
     alt="Lesson">
 ```
 
@@ -461,7 +461,7 @@ Example:
 <area
     shape="circle"
     coords="220,180,45"
-    href="earth.html"
+    href="https://example.com/earth.html"
     alt="Earth">
 ```
 
